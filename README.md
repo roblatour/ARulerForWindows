@@ -1,4 +1,5 @@
 
+<br>
 
 &nbsp; | &nbsp;
 ------ | ----- 
@@ -13,3 +14,7 @@
 |[![Polski](/images/flags/pl.png)](/languages/pl/README.md) | Linijka Dla Windows
 |[![Português](/images/flags/pt.png)](/languages/pt/README.md) | Uma Régua para Windows
 |[![Svenska](/images/flags/sv.png)](/languages/sv/README.md) | En Linjal För Windows
+| | 
+
+
+© Rob Latour, 2006 - 2024
