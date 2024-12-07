@@ -37,17 +37,18 @@ Automatische Mittelpunkte, Drittel und Linien für den Goldenen Schnitt können 
   
 Das Programm verfügt auch über eine Funktion zum Starten des Magnify-Tools von Microsoft, mit dem Sie ein vergrößertes Bild an den Rändern des Lineals sehen können, um leichter zwischen sehr feinen Punkten zu messen.
 <br>
-**Sie können Ein Lineal für Windows gern kostenlos auf so vielen Computern verwenden, wie Sie möchten. 
 
-## [Klicken Sie hier, um A Ruler für Windows herunterzuladen](https://6ec1f0a2f74d4d0c2019-591364a760543a57f40bab2c37672676.ssl.cf5.rackcdn.com/arulersetupv40.exe)<br><br>
+Sie können Ein Lineal für Windows gern kostenlos auf so vielen Computern verwenden, wie Sie möchten. 
+
+## [Klicken Sie hier, Ein Lineal Für Windows herunterzuladen](https://6ec1f0a2f74d4d0c2019-591364a760543a57f40bab2c37672676.ssl.cf5.rackcdn.com/arulersetupv40.exe)<br><br>
 
 ### [Klicken Sie hier für weitere kostenlose Lineal-Skins](skins.md) 
 
 * * * 
-## Support A Ruler for Windows
+## Unterstützt Ein Lineal Für Windows 
 
-Um A Ruler for Windows zu unterstützen oder einfach nur Danke zu sagen, können Sie mir gerne einen Kaffee spendieren.<br><br>
-[<img alt="buy me  a coffee" width="200px" src="buymeacoffee-german.png" />](https://www.buymeacoffee.com/roblatour)
+Ein Lineal Für Windows zu unterstützen oder einfach nur Danke zu sagen, können sie mir gerne einen kaffee spendieren.<br><br>
+[<img alt="kauf mir einen Kaffee" width="200px" src="buymeacoffee-german.png" />](https://www.buymeacoffee.com/roblatour)
 * * *
 Copyright © 2006 - 2024 Rob Latour
 * * *

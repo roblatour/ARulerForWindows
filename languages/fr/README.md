@@ -35,14 +35,14 @@ Le programme dispose également d'une fonctionnalité pour lancer l'outil Magnif
   
 Vous pouvez bien sur utiliser Une Règle Pour Windows gratuitement sur autant d’ordinateurs que vous voulez.  
 
-## [Cliquez ici pour télécharger A Ruler pour Windows](https://6ec1f0a2f74d4d0c2019-591364a760543a57f40bab2c37672676.ssl.cf5.rackcdn.com/arulersetupv40.exe)<br><br>
+## [Cliquez ici pour télécharger Une Règle Pour Windows](https://6ec1f0a2f74d4d0c2019-591364a760543a57f40bab2c37672676.ssl.cf5.rackcdn.com/arulersetupv40.exe)<br><br>
 
 ### [Cliquez ici pour plus de skins de règles gratuites](skins.md) 
 
 * * * 
-## Soutenez A Ruler pour Windows
+## Soutenez Une Règle Pour Windows
 
-Pour soutenir A Ruler pour Windows, ou simplement pour dire merci, n'hésitez pas à « M'offrir un café »<br><br>
+Pour soutenir Une Règle Pour Windows, ou simplement pour dire merci, n'hésitez pas à « M'offrir un café »<br><br>
 [<img alt="M'offrir un café" width="200px" src="buymeacoffee-french.png" />](https://www.buymeacoffee.com/roblatour)
 * * *
 Copyright © 2006 - 2024 Rob Latour
