@@ -45,8 +45,8 @@ Sei invitato a utilizzare Un Righello per Windows gratuitamente su tutti i compu
 * * * 
 ## Supporta Un Righello per Windows
 
-Per aiutare a supportare Un Righello per Windows, o semplicemente per dire grazie, sei il benvenuto a "offrirmi un caffè"<br><br>
-[<img alt="offrirmi un caffè" width="200px" src="buymeacoffee-italian.png" />](https://www.buymeacoffee.com/roblatour)
+Per aiutare a supportare Un Righello per Windows, o semplicemente per dire grazie, sei il benvenuto a "Offrirmi un caffè"<br><br>
+[<img alt="Offrirmi un caffè" width="200px" src="buymeacoffee-italian.png" />](https://www.buymeacoffee.com/roblatour)
 * * *
 Copyright © 2006 - 2024 Rob Latour
 * * *

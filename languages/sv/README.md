@@ -46,7 +46,7 @@ Du är varmt välkommen att använda En Linjal för Windows gratis på så mång
 ## Support A Ruler for Windows
 
 För att hjälpa till att stödja En Linjal För Windows, eller för att bara säga tack, är du välkommen att "Köpa mig en kaffe"<br><br>
-[<img alt="Köpa mig en kaffe" width="200px" src="buymeacoffee-sweedish.png" />](https://www.buymeacoffee.com/roblatour)
+[<img alt="Köpa mig en kaffe" width="200px" src="buymeacoffee-swedish.png" />](https://www.buymeacoffee.com/roblatour)
 * * *
 Copyright © 2006 - 2024 Rob Latour
 * * *
