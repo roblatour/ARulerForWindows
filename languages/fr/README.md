@@ -1,15 +1,16 @@
 
-# Une Règle Pour Windows (version 4.0 - 2023-12-12)
+# Une Règle Pour Windows (version 4.0 - 2024-12-12)
 
 <!-- header -->
 |||||||||||
 | :---: | :---: | :---: | :---: | :---: |:---: | :---: | :---: |:---: | :---: |
 | [![عربي](/images/flags/ar.png)](../en/README.md)<br>[عربي](../ar/README.md) | [![Deutsch](/images/flags/de.png)](../de/README.md)<br>[Deutsch](../de/README.md) | [![English](/images/flags/en-GB.png)](../en/README.md)<br>[English](../en/README.md) | [![Español](/images/flags/es.png)](../es/README.md)<br>[Español](../es/README.md) | [![Français](/images/flags/fr.png)](../fr/README.md)<br>[Français](../fr/README.md)| [![Italiano](/images/flags/it.png)](../it/README.md)<br>[Italiano](../it/README.md) | [![Nederlands](/images/flags/nl.png)](../nl/README.md)<br>[Nederlands](../nl/README.md) | [![Polski](/images/flags/pl.png)](../pl/README.md)<br>[Polski](../pl/README.md) | [![Português](/images/flags/pt.png)](../pt/README.md)<br>[Português](../pt/README.md) | [![Svenska](/images/flags/sv.png)](../sv/README.md)<br>[Svenska](../sv/README.md) |
 
+- - -
+<br>
 <!-- header -->
 
-- - -
-Une Règle pour Windows est une règle des pixels/un guide de lecture disponible **gratuitement** sur votre écran pour Windows 10, 8.1, 8, 7, Vista, XP et 2000.  
+Une Règle pour Windows est une règle des pixels/un guide de lecture disponible **gratuitement** sur votre écran pour Windows.  
   
 La règle vous permet de mesurer rapidement et facilement des objets sur votre écran. Elle est idéale pour concevoir des sites internet, travailler avec des graphiques et parfaire l’apparence de vos produits digitaux.<br><br>
 [![ruler](/images/ruler.png)](screenshot.png)
@@ -41,8 +42,8 @@ Vous pouvez bien sur utiliser Une Règle Pour Windows gratuitement sur autant d�
 * * * 
 ## Soutenez A Ruler pour Windows
 
-Pour soutenir A Ruler pour Windows, ou simplement pour dire merci, n'hésitez pas à « m'offrir un café »<br><br>
-[<img alt="buy me  a coffee" width="200px" src="buymeacoffee-french.png" />](https://www.buymeacoffee.com/roblatour)
+Pour soutenir A Ruler pour Windows, ou simplement pour dire merci, n'hésitez pas à « M'offrir un café »<br><br>
+[<img alt="M'offrir un café" width="200px" src="buymeacoffee-french.png" />](https://www.buymeacoffee.com/roblatour)
 * * *
 Copyright © 2006 - 2024 Rob Latour
 * * *

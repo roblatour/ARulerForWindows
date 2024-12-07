@@ -5,9 +5,9 @@
 | :---: | :---: | :---: | :---: | :---: |:---: | :---: | :---: |:---: | :---: |
 | [![عربي](/images/flags/ar.png)](../en/README.md)<br>[عربي](../ar/README.md) | [![Deutsch](/images/flags/de.png)](../de/README.md)<br>[Deutsch](../de/README.md) | [![English](/images/flags/en-GB.png)](../en/README.md)<br>[English](../en/README.md) | [![Español](/images/flags/es.png)](../es/README.md)<br>[Español](../es/README.md) | [![Français](/images/flags/fr.png)](../fr/README.md)<br>[Français](../fr/README.md)| [![Italiano](/images/flags/it.png)](../it/README.md)<br>[Italiano](../it/README.md) | [![Nederlands](/images/flags/nl.png)](../nl/README.md)<br>[Nederlands](../nl/README.md) | [![Polski](/images/flags/pl.png)](../pl/README.md)<br>[Polski](../pl/README.md) | [![Português](/images/flags/pt.png)](../pt/README.md)<br>[Português](../pt/README.md) | [![Svenska](/images/flags/sv.png)](../sv/README.md)<br>[Svenska](../sv/README.md) |
 
-<!-- header -->
-
 - - -
+<br>
+<!-- header -->
 
 A Ruler for Windows is a free pixel ruler and reading guide for Windows.  
   
@@ -33,8 +33,8 @@ You're welcome to use A Ruler for Windows for free on as many computers as you l
 * * * 
 ## Support A Ruler for Windows
 
-To help support A Ruler for Windows, or to just say thanks, you're welcome to 'buy me a coffee'<br><br>
-[<img alt="buy me  a coffee" width="200px" src="buymeacoffee-english.png" />](https://www.buymeacoffee.com/roblatour)
+To help support A Ruler for Windows, or to just say thanks, you're welcome to 'Buy me a coffee'<br><br>
+[<img alt="Buy me  a coffee" width="200px" src="buymeacoffee-english.png" />](https://www.buymeacoffee.com/roblatour)
 * * *
 Copyright © 2006 - 2024 Rob Latour
 * * *

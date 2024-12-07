@@ -1,15 +1,15 @@
-# Ein Lineal Für Windows (Version 4.0 - 2024-12-10)
-
+# Ein Lineal Für Windows (Version 4.0 - 2024-12-12)
 <!-- header -->
+
 |||||||||||
 | :---: | :---: | :---: | :---: | :---: |:---: | :---: | :---: |:---: | :---: |
 | [![عربي](/images/flags/ar.png)](../en/README.md)<br>[عربي](../ar/README.md) | [![Deutsch](/images/flags/de.png)](../de/README.md)<br>[Deutsch](../de/README.md) | [![English](/images/flags/en-GB.png)](../en/README.md)<br>[English](../en/README.md) | [![Español](/images/flags/es.png)](../es/README.md)<br>[Español](../es/README.md) | [![Français](/images/flags/fr.png)](../fr/README.md)<br>[Français](../fr/README.md)| [![Italiano](/images/flags/it.png)](../it/README.md)<br>[Italiano](../it/README.md) | [![Nederlands](/images/flags/nl.png)](../nl/README.md)<br>[Nederlands](../nl/README.md) | [![Polski](/images/flags/pl.png)](../pl/README.md)<br>[Polski](../pl/README.md) | [![Português](/images/flags/pt.png)](../pt/README.md)<br>[Português](../pt/README.md) | [![Svenska](/images/flags/sv.png)](../sv/README.md)<br>[Svenska](../sv/README.md) |
 
+- - -
+<br>
 <!-- header -->
 
-- - -
-
-Ein Lineal für Windows ist ein **kostenloser** Pixelmaßstab und eine Lesehilfe für Windows 10, 8.1, 8, 7, Vista, XP und 2000.  
+Ein Lineal für Windows ist ein **kostenloser** Pixelmaßstab und eine Lesehilfe für Windows.  
   
 Das Lineal erlaubt Ihnen, schnell und einfach Objekte auf Ihrem Bildschirm zu messen. Es ist ideal für Webseiten, zum Arbeiten mit Grafiken und zum Perfektionieren des Looks Ihrer digitalen Produkte.
  <br><br>

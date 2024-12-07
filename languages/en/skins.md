@@ -78,8 +78,8 @@ taken with my own camera
 * * * 
 ## Support A Ruler for Windows
 
-To help support A Ruler for Windows, or to just say thanks, you're welcome to 'buy me a coffee'<br><br>
-[<img alt="buy me  a coffee" width="200px" src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" />](https://www.buymeacoffee.com/roblatour)
+To help support A Ruler for Windows, or to just say thanks, you're welcome to 'Buy me a coffee'<br><br>
+[<img alt="Buy me  a coffee" width="200px" src="buymeacoffee-english.png" />](https://www.buymeacoffee.com/roblatour)
 * * *
 Copyright © 2006 - 2024 Rob Latour
 * * *
