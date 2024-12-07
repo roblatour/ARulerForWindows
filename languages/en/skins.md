@@ -13,7 +13,7 @@ Here are some free extra skins which you're welcome to add to your collection. 
 With A Ruler for Windows installed on your PC, just double click on any of the skins below, choose to 'open' the file that is being downloaded and the skin will be automatically added to your collection. 
 
 
-<a id="download zip" href="RulerDefinitions.zip">xxxxx</a>
+<a id="download zip" href="RulerDefinitions-en.zip">xxxxx</a>
 
 
 
