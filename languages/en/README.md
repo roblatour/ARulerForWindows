@@ -7,8 +7,6 @@
 
 <!-- header -->
 
-|     |     |     |     |     |     |     |     |     |     |
-
 - - -
 
 A Ruler for Windows is a free pixel ruler and reading guide for Windows.  
