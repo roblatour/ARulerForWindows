@@ -27,7 +27,7 @@ Aqua 4 <br>
 [![Aqua](/images/Aqua.png)](https://github.com/roblatour/ARulerForWindows/blob/main/languages/en/RulerDefinition_Aqua.ar4w) 
 
 Aqua 5 <br>
-[![Aqua](/images/Aqua.png)](RulerDefinition_Aqua.ar4w?download=)  
+[![Aqua](/images/Aqua.png)](RulerDefinition_Aqua.ar4w?download=RulerDefinition_Aqua.ar4w)  
 
 Aqua 6 <br>
 [![Aqua](/images/Aqua.png)](https://github.com/roblatour/ARulerForWindows/blob/main/languages/en/RulerDefinition_Aqua.ar4w?download=) 
@@ -35,6 +35,8 @@ Aqua 6 <br>
 Aqua 7 <br>
 <a href="RulerDefinition_Aqua.ar4w" download>Download File</a>
 
+
+<a id="Aqua8" href="RulerDefinition_Aqua.ar4w">Aqua 8</a>
   
 Aurora Borealis  
 [![Aurora Borealis](/images/AuroraBorealis.png)](RulerDefinition_Aurora%20Borealis.ar4w?raw=true)  
