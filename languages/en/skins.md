@@ -12,6 +12,11 @@ Here are some free extra skins which you're welcome to add to your collection. 
   
 With A Ruler for Windows installed on your PC, just double click on any of the skins below, choose to 'open' the file that is being downloaded and the skin will be automatically added to your collection. 
 
+
+<a id="download zip" href="RulerDefinitions.zip">xxxxx</a>
+
+
+
 Aqua  
 [![Aqua](/images/Aqua.png)](RulerDefinition_Aqua.ar4w?raw=true)  
 
@@ -32,11 +37,10 @@ Aqua 5 <br>
 Aqua 6 <br>
 [![Aqua](/images/Aqua.png)](https://github.com/roblatour/ARulerForWindows/blob/main/languages/en/RulerDefinition_Aqua.ar4w?download=) 
 
-Aqua 7 <br>
-<a href="RulerDefinition_Aqua.ar4w" download>Download File</a>
 
 
-<a id="Aqua8" href="RulerDefinition_Aqua.ar4w">Aqua 8</a>
+
+
   
 Aurora Borealis  
 [![Aurora Borealis](/images/AuroraBorealis.png)](RulerDefinition_Aurora%20Borealis.ar4w?raw=true)  
