@@ -1,256 +1,53 @@
-<!DOCTYPE HTML>
-<html lang="de">
-<head>
-  <meta name="generator" content="HTML Tidy for HTML5 for Windows version 5.8.0">
-  <title>Ein Lineal für Windows - kostenlose Bildschirmpixel Lineal und Leseführung</title>
-  <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
-  <meta name="keywords" content="Lineal, auf dem Bildschirm Lineal, Pixellineal, Bildschirmlineal, Lineal für Fenster, Download Herrscher, download Pixel Lineal, Pixellineal für Fenster, ein Lineal, Lineal-Software, Bildschirmlineal, Bildschirmlineal für Fenster, Fenster Herrscher, Herrscher downloaden, kostenlos Herrscher , Leseanleitung , auf dem Bildschirm Hinweis">
-  <meta name="description" content="Kostenlose Bildschirm-Pixel Lineal und Lesebuch für Windows - mit anpassbaren Skins.">
-  <link href="../lightbox/css/lightbox.css" rel="stylesheet">
-  <style type="text/css">
-                .style1{text-align:left;}
-                .style10{text-align:center;}
-                .style11{font-size:small;}
-                .style13{font-family:Arial;}
-                .style15{font-family:Arial;font-size:small;}
-                .style16{text-align:right;}
-                .style17{border-width:0;}
-                .style18{text-align:left;font-family:Arial;}
-                .style19{margin-left:1px;margin-right:1px;}
-                .auto-style1 {border-width: 1px;}
-  </style><!-- Global site tag (gtag.js) - Google Analytics -->
+# Ein Lineal Für Windows (Version 4.0 - 2024-12-10)
 
-  <script type="text/plain" cookie-consent="tracking" async src="https://www.googletagmanager.com/gtag/js?id=G-BJX77T610Z"></script>
-  <script type="text/plain" cookie-consent="tracking">
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
+<!-- header -->
+|||||||||||
+| :---: | :---: | :---: | :---: | :---: |:---: | :---: | :---: |:---: | :---: |
+| [![عربي](/images/flags/ar.png)](../en/README.md)<br>[عربي](../ar/README.md) | [![Deutsch](/images/flags/de.png)](../de/README.md)<br>[Deutsch](../de/README.md) | [![English](/images/flags/en-GB.png)](../en/README.md)<br>[English](../en/README.md) | [![Español](/images/flags/es.png)](../es/README.md)<br>[Español](../es/README.md) | [![Français](/images/flags/fr.png)](../fr/README.md)<br>[Français](../fr/README.md)| [![Italiano](/images/flags/it.png)](../it/README.md)<br>[Italiano](../it/README.md) | [![Nederlands](/images/flags/nl.png)](../nl/README.md)<br>[Nederlands](../nl/README.md) | [![Polski](/images/flags/pl.png)](../pl/README.md)<br>[Polski](../pl/README.md) | [![Português](/images/flags/pt.png)](../pt/README.md)<br>[Português](../pt/README.md) | [![Svenska](/images/flags/sv.png)](../sv/README.md)<br>[Svenska](../sv/README.md) |
 
-  gtag('config', 'G-BJX77T610Z');
-  </script>
-</head>
-<body>
-  <center>
-    <table style="width: 752px; height: 615px; text-align: left; margin-left: auto; margin-right: auto;" border="0" cellpadding="2">
-      <tbody>
-        <tr>
-          <td style="text-align: center;" colspan="2">
-            <h1 class="style10"><span style="font-family: Arial;">Ein Lineal Für Windows <small><small><small>(Version 3.9 - 2023-12-14)</small></small></small></span></h1>
-            <hr style="width: 747px; height: 2px;">
-          </td>
-        </tr>
-        <tr>
-          <td style="text-align: center;" colspan="2">
-            <table style="width: 100%">
-              <tr>
-			    <td class="style10">
-                  <a href="https://www.arulerforwindows.com/ar/index.html"><img alt="تغيير اللغة إلى العربية" src="https://www.arulerforwindows.com/images/flags/ar.png" class="auto-style1"></a><br>
-                  <a href="https://www.arulerforwindows.com/ar/index.html">عربي</a>
-                </td>
-                <td class="style10">
-                  <a href="https://www.arulerforwindows.com/de/index.html"><img alt="Ändern Sie die Sprache auf Deutsch" src="https://www.arulerforwindows.com/images/flags/de.png" class="auto-style1"></a><br>
-                  <a href="https://www.arulerforwindows.com/de/index.html">Deutsch</a>
-                </td>
-                <td class="style10">
-                  <a href="https://www.arulerforwindows.com/index.html"><img alt="Change the language to English" src="https://www.arulerforwindows.com/images/flags/en_uk.png" class="auto-style1"></a><br>
-                  <a href="https://www.arulerforwindows.com/index.html">English</a>
-                </td>
-                <td class="style10">
-                  <a href="https://www.arulerforwindows.com/es/index.html"><img alt="Cambiar idioma a Español" src="https://www.arulerforwindows.com/images/flags/es.png" class="auto-style1"></a><br>
-                  <a href="https://www.arulerforwindows.com/es/index.html">Español</a>
-                </td>
-                <td class="style10">
-                  <a href="https://www.arulerforwindows.com/fr/index.html"><img alt="Changer la langue vers le Français" src="https://www.arulerforwindows.com/images/flags/fr.png" class="auto-style1"></a><br>
-                  <a href="https://www.arulerforwindows.com/fr/index.html">Français</a>
-                </td>
-                <td class="style10">
-                  <a href="https://www.arulerforwindows.com/it/index.html"><img alt="Cambia lingua Italiana" src="https://www.arulerforwindows.com/images/flags/it.png" class="auto-style1"></a><br>
-                  <a href="https://www.arulerforwindows.com/it/index.html">Italiano</a>
-                </td>
-                <td class="style10">
-                  <a href="https://www.arulerforwindows.com/nl/index.html"><img alt="Verander de taal in Nederlands" src="https://www.arulerforwindows.com/images/flags/nl.png" class="auto-style1"></a><br>
-                  <a href="https://www.arulerforwindows.com/nl/index.html">Nederlands</a>
-                </td>
-                <td class="style10">
-                  <a href="https://www.arulerforwindows.com/pl/index.html"><img alt="Zmień język na Polski" src="https://www.arulerforwindows.com/images/flags/pl.png" class="auto-style1"></a><br>
-                  <a href="https://www.arulerforwindows.com/pl/index.html">Polski</a>
-                </td>
-                <td class="style10">
-                  <a href="https://www.arulerforwindows.com/pt/index.html"><img alt="Zmień język na Portugalski" src="https://www.arulerforwindows.com/images/flags/pt.png" class="auto-style1"></a><br>
-                  <a href="https://www.arulerforwindows.com/pt/index.html">Português</a>
-                </td>
-                <td class="style10">
-                  <a href="https://www.arulerforwindows.com/sv/index.html"><img alt="Ändra språk till svenska" src="https://www.arulerforwindows.com/images/flags/sv.png" class="auto-style1"></a><br>
-                  <a href="https://www.arulerforwindows.com/sv/index.html">Svenska</a>
-                </td>
-              </tr>
-            </table>
-          </td>
-        </tr>
-        <tr>
-          <td style="text-align: center;" colspan="2">
-            <hr style="width: 747px; height: 2px;">
-          </td>
-        </tr>
-        <tr>
-          <td class="style18" colspan="2">Ein Lineal für Windows ist ein <strong>kostenloser</strong> Pixelmaßstab und eine Lesehilfe für Windows 10, 8.1, 8, 7, Vista, XP und 2000.<br>
-          <br>
-          Das Lineal erlaubt Ihnen, schnell und einfach Objekte auf Ihrem Bildschirm zu messen. Es ist ideal für Webseiten, zum Arbeiten mit Grafiken und zum Perfektionieren des Looks Ihrer digitalen Produkte.</td>
-        </tr>
-        <tr>
-          <td class="style18" colspan="2"><span style="font-family: Arial;"><a href="screenshot.png" data-lightbox="screenshot"><img src="../images/ruler.png" style="border-style: solid; border-color: inherit; border-width: 0px;" alt="ruler" height="100" width="750" class="style19"></a></span></td>
-        </tr>
-        <tr>
-          <td class="style1" colspan="2"><span style="font-family: Arial;" class="textstyle0"><span style="font-family: Arial;"><br>
-          Die Lesehilfe hilft Ihnen, Text auf Ihrem Bildschirm zu lesen, wie ein Lineal dabei hilft, Zeilen eines Texts auf gedrucktem Papier zu lesen. Das macht aus Ein Lineal für Windows ein ideales Werkzeug zum Arbeiten mit langen E-Mails, komplizierten Tabellen und kleingedruckten Dokumenten auf Ihrem Bildschirm.</span></span></td>
-        </tr>
-        <tr>
-          <td class="style1" colspan="2"><span style="font-family: Arial;" class="textstyle0"><span style="font-family: Arial;"><img alt="Leseanleitung" height="30" src="../images/readingguide.png" width="750" class="style19"><br>
-          <br>
-          Das Programm wechselt per Tastendruck zwischen Lineal- und Leseführungsmodus.<br>
-          <br>
-          Sowohl das Lineal als auch die Lesehilfe kommen standardmäßig mit vier Skins zum Auswählen: Holzmaserung, Edelstahl, durchsichtiges Plastik und gelbe Konstruktion. Allerdings können Sie eigene Skins basteln und sie mit Ihren Freunden teilen!<br>
-          <br>
-          Durch große, deutliche Nummerierung ist das Lineal sehr einfach zu lesen.<br>
-          <br>
-          Jedes Lineal und jede Lesehilfe kann horizontal und vertikal gekippt, auf eine exakte Länge oder durch Ziehen auf eine gewünschte Länge eingestellt werden.<br>
-          <br>
-          Die Nummerierung auf dem Lineal kann umgekehrt und die Länge des Lineals optional angezeigt werden.<br>
-          <br>
-          Häkchen können auf dem Ende des Lineals platziert werden, das Sie bevorzugen.<br>
-          <br>
-          Sie können auf ein Häkchen klicken, um automatisch eine Messlinie zu einem bestimmten Punkt einzeichnen zu lassen.<br>
-          <br>
-          Automatische Mittelpunkte, Drittel und Linien für den Goldenen Schnitt können optional angezeigt werden.<br>
-          <br>
-          Das Programm verfügt auch über eine Funktion zum Starten des Magnify-Tools von Microsoft, mit dem Sie ein vergrößertes Bild an den Rändern des Lineals sehen können, um leichter zwischen sehr feinen Punkten zu messen.<span class="style13"><br>
-          &nbsp;</span></span></span><br></td>
-        </tr>
-        <tr>
-          <td class="style10" colspan="2"><span class="style2"><span style="font-family: Arial;" class="textstyle0"><span style="font-family: Arial;"><span class="style13"><strong>Sie können Ein Lineal für Windows gern kostenlos auf so vielen Computern verwenden, wie Sie möchten.<br></strong></span></span></span></span></td>
-        </tr>
-        <tr>
-          <td class="style1" colspan="2"><span style="font-family: Arial;" class="textstyle0"><span style="font-family: Arial;"><span class="style13">Ein Lineal für Windows wird ausschließlich durch Spenden von Personen wie Ihnen und durch Werbung auf dieser Website finanziert.</span></span></span></td>
-        </tr>
-        <tr>
-          <td class="style10" colspan="2">
-            <hr style="width: 100%; height: 2px;">
-          </td>
-        </tr>
-        <tr>
-          <td class="style10" colspan="2">
-            <script type="text/plain" cookie-consent="targeting" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- Horizontal 728x90 --><ins class="adsbygoogle" style="display:inline-block;width:728px;height:90px" data-ad-client="ca-pub-5016632661961945" data-ad-slot="3954089027"></ins> 
-            <script type="text/plain" cookie-consent="targeting">
+<!-- header -->
 
+- - -
 
+Ein Lineal für Windows ist ein **kostenloser** Pixelmaßstab und eine Lesehilfe für Windows 10, 8.1, 8, 7, Vista, XP und 2000.  
+  
+Das Lineal erlaubt Ihnen, schnell und einfach Objekte auf Ihrem Bildschirm zu messen. Es ist ideal für Webseiten, zum Arbeiten mit Grafiken und zum Perfektionieren des Looks Ihrer digitalen Produkte.
+ <br><br>
+[![ruler](/images/ruler.png)](screenshot.png)
+<br><br>
+Die Lesehilfe hilft Ihnen, Text auf Ihrem Bildschirm zu lesen, wie ein Lineal dabei hilft, Zeilen eines Texts auf gedrucktem Papier zu lesen. Das macht aus Ein Lineal für Windows ein ideales Werkzeug zum Arbeiten mit langen E-Mails, komplizierten Tabellen und kleingedruckten Dokumenten auf Ihrem Bildschirm.
+<br><br>
+![Leseanleitung](/images/readingguide.png)  
+<br>
+Das Programm wechselt per Tastendruck zwischen Lineal- und Leseführungsmodus.  
+  
+Sowohl das Lineal als auch die Lesehilfe kommen standardmäßig mit vier Skins zum Auswählen: Holzmaserung, Edelstahl, durchsichtiges Plastik und gelbe Konstruktion. Allerdings können Sie eigene Skins basteln und sie mit Ihren Freunden teilen!  
+  
+Durch große, deutliche Nummerierung ist das Lineal sehr einfach zu lesen.  
+  
+Jedes Lineal und jede Lesehilfe kann horizontal und vertikal gekippt, auf eine exakte Länge oder durch Ziehen auf eine gewünschte Länge eingestellt werden.  
+  
+Die Nummerierung auf dem Lineal kann umgekehrt und die Länge des Lineals optional angezeigt werden.  
+  
+Häkchen können auf dem Ende des Lineals platziert werden, das Sie bevorzugen.  
+  
+Sie können auf ein Häkchen klicken, um automatisch eine Messlinie zu einem bestimmten Punkt einzeichnen zu lassen.  
+  
+Automatische Mittelpunkte, Drittel und Linien für den Goldenen Schnitt können optional angezeigt werden.  
+  
+Das Programm verfügt auch über eine Funktion zum Starten des Magnify-Tools von Microsoft, mit dem Sie ein vergrößertes Bild an den Rändern des Lineals sehen können, um leichter zwischen sehr feinen Punkten zu messen.
+<br>
+**Sie können Ein Lineal für Windows gern kostenlos auf so vielen Computern verwenden, wie Sie möchten. 
 
+## [Klicken Sie hier, um A Ruler für Windows herunterzuladen](https://6ec1f0a2f74d4d0c2019-591364a760543a57f40bab2c37672676.ssl.cf5.rackcdn.com/arulersetupv40.exe)<br><br>
 
+### [Klicken Sie hier für weitere kostenlose Lineal-Skins](skins.md) 
 
-                        ( adsbygoogle = window.adsbygoogle || []).push({});
-            </script>
-          </td>
-        </tr>
-        <tr>
-          <td class="style10" colspan="2">
-            <hr style="width: 100%; height: 2px;">
-          </td>
-        </tr>
-        <tr>
-          <td colspan="2">
-            <table cellpadding="0" cellspacing="0" style="width: 100%; height: 67px;">
-              <tr>
-                <td style="height: 5px">&nbsp;&nbsp;</td>
-              </tr>
-              <tr>
-                <td class="style16" style="height: 62px">
-                  <table style="width: 100%" cellpadding="0" cellspacing="0">
-                    <tr>
-                      <td class="style1" style="width: 3px; height: 23px;"></td>
-                      <td class="style1" style="width: 450px"><br></td>
-                      <td class="style10" rowspan="2"><br>
-                      <span style="font-family: Arial;" class="textstyle0"><span style="font-family: Arial;"><span class="style13"><a href="https://www.arulerforwindows.com/arulersetupv39.exe">Klicken Sie hier zum Download ein Lineal für Windows</a><br>
-                      <br></span></span></span><br>
-                      <span style="font-family: Arial;" class="textstyle0"><span style="font-family: Arial;"><span class="style13">&nbsp;<a href="skins.html">Klicken Sie hier, um mehr freien Skins für Ihren Herrscher bekommen</a></span></span></span></td>
-                    </tr>
-                    <tr>
-                      <td class="style1" style="width: 3px">&nbsp;</td>
-                      <td class="style1" style="width: 528px">
-                        <div class="fb-like" data-href="https://www.arulerforwindows.com" data-width="400" data-layout="standard" data-action="like" data-show-faces="false" data-share="false"></div>
-                      </td>
-                    </tr>
-                  </table>&nbsp;
-                </td>
-              </tr>
-            </table>
-          </td>
-        </tr>
-        <tr>
-          <td class="style10" colspan="2">
-            <hr style="width: 100%; height: 2px;">
-          </td>
-        </tr>
-        <tr>
-          <td class="style10" colspan="2">
-            <script type="text/plain" cookie-consent="targeting" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- Horizontal 728x90 --><ins class="adsbygoogle" style="display:inline-block;width:728px;height:90px" data-ad-client="ca-pub-5016632661961945" data-ad-slot="3954089027"></ins> 
-            <script type="text/plain" cookie-consent="targeting">
+* * * 
+## Support A Ruler for Windows
 
-
-
-
-
-                                                        ( adsbygoogle = window.adsbygoogle || []).push({});
-            </script>
-          </td>
-        </tr>
-        <tr>
-          <td class="style10" colspan="2">
-            <hr style="width: 100%; height: 2px;">
-          </td>
-        </tr>
-        <tr>
-          <td class="style1" style="width: 141px"><span style="font-family: Arial;"><small><big><a href="mailto:info@arulerforwindows.com">info@arulerforwindows.com</a></big></small></span></td>
-          <td class="style16"><span style="font-family: Arial;"><small><big>Copyright&nbsp;©&nbsp;2006 - 2024 Rob Latour.<br>
-          Alle Rechte vorbehalten.</big></small></span></td>
-        </tr>
-        <tr>
-          <td valign="top" colspan="2">
-            <hr style="width: 100%; height: 2px;">
-          </td>
-        </tr>
-        <tr>
-          <td valign="top" class="style10" colspan="2"><span class="style10"><span class="style11">Andere große Software, die von Rob Latour:<br>
-          &nbsp;&nbsp; <a href="https://www.callclerk.com/index.html?ar4w">CallClerk</a>&nbsp;&nbsp; <a href="https://www.rlatour.com/cast/index.html?ar4w">Cast</a>&nbsp;&nbsp; <a href="https://www.rlatour.com/aformfiller/index.html?ar4w">A Form Filler</a>&nbsp;&nbsp; <a href="https://www.rlatour.com/concentration/index.html?ar4w">Concentration</a>&nbsp; <a href=
-          "https://www.rlatour.com/fml/index.html?ar4w">FixMyLocation</a>&nbsp; <a href="https://www.rlatour.com/myarp/index.html?ar4w">MyArp</a>&nbsp;&nbsp; <a href="https://www.push2run.com/index.html?ar4w">Push2Run</a>&nbsp;&nbsp; <a href="https://www.rlatour.com/r4r/index.html?ar4w">Reporting for Rackspace</a>&nbsp;&nbsp; <a href=
-          "https://www.rlatour.com/s-controller/index.html?ar4w">S-Controller</a>&nbsp;&nbsp; <a href="https://www.rlatour.com/setvol/index.html?ar4w">SetVol</a>&nbsp;&nbsp; <a href="https://www.rlatour.com/udprun/index.html?ar4w">UDPRun</a>&nbsp;&nbsp;</span></span></td>
-        </tr>
-        <tr>
-          <td valign="top" colspan="2">
-            <hr style="width: 100%; height: 2px;">
-          </td>
-        </tr>
-      </tbody>
-    </table>
-    <div style="text-align: left;"></div>
-    <div style="text-align: center;">
-      <big style="font-weight: bold;"><big>&nbsp; &nbsp;</big></big>
-    </div>
-  </center><!-- Lightbox script -->
-  <script type="text/plain" cookie-consent="strictly-necessary" src="../lightbox/js/jquery-1.10.2.min.js"></script> 
-  <script type="text/plain" cookie-consent="strictly-necessary" src="lightbox/js/lightbox-2.6.min.js"></script> <!-- Facebook script -->
-  <div id="fb-root"></div>
-  <script type="text/plain" cookie-consent="tracking">
-
-  (function(d, s, id) {var js, fjs = d.getElementsByTagName(s)[0];         if (d.getElementById(id)) return;      js = d.createElement(s); js.id = id; js.src = "//connect.facebook.net/de_DE/all.js#xfbml=1&appId=443497112431899";  fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'facebook-jssdk'));
-  </script> <!-- Cookie Consent by https://www.FreePrivacyPolicy.com -->
-   
-  <script type="text/javascript" src="//www.freeprivacypolicy.com/public/cookie-consent/4.0.0/cookie-consent.js" charset="UTF-8"></script> 
-  <script type="text/javascript" charset="UTF-8">
-
-
-
-  document.addEventListener('DOMContentLoaded', function () {
-  cookieconsent.run({"notice_banner_type":"simple","consent_type":"express","palette":"light","language":"de","page_load_consent_levels":["strictly-necessary"],"notice_banner_reject_button_hide":false,"preferences_center_close_button_hide":false,"page_refresh_confirmation_buttons":false,"website_name":"rlatour.com","website_privacy_policy_url":"https://rlatour.com/privacy.html"});
-  });
-  </script> <noscript>Cookie Consent by <a href="https://www.freeprivacypolicy.com/" rel="nofollow noopener">Free Privacy Policy Generator website</a></noscript> <!-- End Cookie Consent -->
-</body>
-</html>
+Um A Ruler for Windows zu unterstützen oder einfach nur Danke zu sagen, können Sie mir gerne einen Kaffee spendieren.<br><br>
+[<img alt="buy me  a coffee" width="200px" src="buymeacoffee-german.png" />](https://www.buymeacoffee.com/roblatour)
+* * *
+Copyright © 2006 - 2024 Rob Latour
+* * *

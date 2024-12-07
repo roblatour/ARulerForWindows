@@ -1,4 +1,4 @@
-# A Ruler For Windows (version 4.0 - 2024-12-10)
+# A Ruler For Windows (version 4.0 - 2024-12-12)
 
 <!-- header -->
 |||||||||||
@@ -34,7 +34,7 @@ You're welcome to use A Ruler for Windows for free on as many computers as you l
 ## Support A Ruler for Windows
 
 To help support A Ruler for Windows, or to just say thanks, you're welcome to 'buy me a coffee'<br><br>
-[<img alt="buy me  a coffee" width="200px" src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" />](https://www.buymeacoffee.com/roblatour)
+[<img alt="buy me  a coffee" width="200px" src="buymeacoffee-english.png" />](https://www.buymeacoffee.com/roblatour)
 * * *
 Copyright © 2006 - 2024 Rob Latour
 * * *
