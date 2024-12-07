@@ -13,34 +13,34 @@ Here are some free extra skins which you're welcome to add to your collection. 
 With A Ruler for Windows installed on your PC, just double click on any of the skins below, choose to 'open' the file that is being downloaded and the skin will be automatically added to your collection. 
 
 Aqua  
-[![Aqua](/images/Aqua.png)](RulerDefinition_Aqua.ar4w?raw=true)
+[![Aqua](/images/Aqua.png)](.//RulerDefinition_Aqua.ar4w?raw=true)
   
 Aurora Borealis  
-[![Aurora Borealis](/images/AuroraBorealis.png)](skins/RulerDefinition_Aurora%20Borealis.ar4w?raw=true)  
+[![Aurora Borealis](/images/AuroraBorealis.png)](.//RulerDefinition_Aurora%20Borealis.ar4w?raw=true)  
 with thanks to Madx1980, [commons.wikimedia.org](http://commons.wikimedia.org/wiki/File:Aurora_Borealis_in_north_pole.jpg)  
    
 Brick Wall  
-[![Brick Wall](/images/BrickWall.png)](skins/RulerDefinition_Brick%20Wall.ar4w?raw=true)  
+[![Brick Wall](/images/BrickWall.png)](.//RulerDefinition_Brick%20Wall.ar4w?raw=true)  
 with thanks to Petr Kratochvil, [www.publicdomainpictures.net](http://www.publicdomainpictures.net/view-image.php?image=1281&picture=brick-wall)  
    
 Grass  
-[![Grass](/images/grass.png)](skins/RulerDefinition_Grass.ar4w?raw=true)  
+[![Grass](/images/grass.png)](.//RulerDefinition_Grass.ar4w?raw=true)  
 with thanks to Don Harvey, [www.donhavey.com](http://donhavey.com/blog/tutorials/ik-springy-grass/)  
 
 Kitten  
-[![Kitten](/images/kitten.png)](skins/RulerDefinition_Kitten.ar4w?raw=true)  
+[![Kitten](/images/kitten.png)](.//RulerDefinition_Kitten.ar4w?raw=true)  
 with thanks to luckywhitegirl, [www.flickr.com](http://www.flickr.com/photos/luckywhitegirl/2541902083)  
    
 Rainbow  
-[![Rainbow](/images/rainbow.png)](skins/RulerDefinition_Rainbow.ar4w?raw=true)  
+[![Rainbow](/images/rainbow.png)](.//RulerDefinition_Rainbow.ar4w?raw=true)  
 with thanks to Thelma, [thelma1.deviantart.com](http://thelma1.deviantart.com/) 
 
 School of Athens  
-[![School of Athens](/images/ShoolOfAthens.png)](skins/RulerDefinition_School%20of%20Athens.ar4w?raw=true)  
+[![School of Athens](/images/ShoolOfAthens.png)](.//RulerDefinition_School%20of%20Athens.ar4w?raw=true)  
 with thanks to Raphael  
    
 Spruce  
-[![Spruce](/images/spruce.png)](skins/RulerDefinition_Spruce.ar4w?raw=true)  
+[![Spruce](/images/spruce.png)](.//RulerDefinition_Spruce.ar4w?raw=true)  
 taken with my own camera   
  
 
