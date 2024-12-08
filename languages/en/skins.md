@@ -19,34 +19,34 @@ You can do this for as many of the skins below that you like.
 
 Aqua
  
-[![Aqua](/images/Aqua.png)](RulerDefinition_Aqua.ar4w)
+[![Aqua](/images/skins/Aqua.png)](RulerDefinition_Aqua.ar4w)
 
 Aurora Borealis  
-[![Aurora Borealis](/images/AuroraBorealis.png)](RulerDefinition_Aurora%20Borealis.ar4w)  
+[![Aurora Borealis](/images/skins/AuroraBorealis.png)](RulerDefinition_Aurora%20Borealis.ar4w)  
 with thanks to Madx1980, [commons.wikimedia.org](http://commons.wikimedia.org/wiki/File:Aurora_Borealis_in_north_pole.jpg)  
   
 Brick Wall  
-[![Brick Wall](/images/BrickWall.png)](RulerDefinition_Brick%20Wall.ar4w)  
+[![Brick Wall](/images/skins/BrickWall.png)](RulerDefinition_Brick%20Wall.ar4w)  
 with thanks to Petr Kratochvil, [www.publicdomainpictures.net](http://www.publicdomainpictures.net/view-image.php?image=1281&picture=brick-wall)  
   
 Grass  
-[![Grass](/images/grass.png)](RulerDefinition_Grass.ar4w)  
+[![Grass](/images/skins/grass.png)](RulerDefinition_Grass.ar4w)  
 with thanks to Don Harvey, [www.donhavey.com](http://donhavey.com/blog/tutorials/ik-springy-grass/)  
 
 Kitten  
-[![Kitten](/images/kitten.png)](RulerDefinition_Kitten.ar4w)  
+[![Kitten](/images/skins/kitten.png)](RulerDefinition_Kitten.ar4w)  
 with thanks to luckywhitegirl, [www.flickr.com](http://www.flickr.com/photos/luckywhitegirl/2541902083)  
   
 Rainbow  
-[![Rainbow](/images/rainbow.png)](RulerDefinition_Rainbow.ar4w)  
+[![Rainbow](/images/skins/rainbow.png)](RulerDefinition_Rainbow.ar4w)  
 with thanks to Thelma, [thelma1.deviantart.com](http://thelma1.deviantart.com/) 
 
 School of Athens  
-[![School of Athens](/images/ShoolOfAthens.png)](RulerDefinition_School%20of%20Athens.ar4w?raw=true)  
+[![School of Athens](/images/skins/ShoolOfAthens.png)](RulerDefinition_School%20of%20Athens.ar4w?raw=true)  
 with thanks to Raphael  
   
 Spruce  
-[![Spruce](/images/spruce.png)](RulerDefinition_Spruce.ar4w)  
+[![Spruce](/images/skins/spruce.png)](RulerDefinition_Spruce.ar4w)  
 taken with my own camera
 <br>
 

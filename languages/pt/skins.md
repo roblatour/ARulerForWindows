@@ -19,34 +19,34 @@ Se gosta de um, por favor, basta:
 Pode fazer isto para quantas skins abaixo desejar.
 
 Água  
-[![Água](/images/Aqua.png)](RulerDefinition_Agua.ar4w)  
+[![Água](/images/skins/Aqua.png)](RulerDefinition_Agua.ar4w)  
   
 Aurora Boreal  
-[![Aurora Boreal](/images/AuroraBorealis.png)](RulerDefinition_Aurora%20Borealis.ar4w)  
+[![Aurora Boreal](/images/skins/AuroraBorealis.png)](RulerDefinition_Aurora%20Borealis.ar4w)  
 com agradecimentos ao Madx1980, [commons.wikimedia.org](http://commons.wikimedia.org/wiki/File:Aurora_Borealis_in_north_pole.jpg)  
    
 Pared de Tijolo  
-[![Pared de Tijolo](/images/BrickWall.png)](RulerDefinition_Pared%20de%20Tijolo.ar4w)  
+[![Pared de Tijolo](/images/skins/BrickWall.png)](RulerDefinition_Pared%20de%20Tijolo.ar4w)  
 com agradecimentos ao Petr Kratochvil, [www.publicdomainpictures.net](http://www.publicdomainpictures.net/view-image.php?image=1281&picture=brick-wall)  
    
 Grama  
-[![Grama](/images/grass.png)](RulerDefinition_Grama.ar4w)  
+[![Grama](/images/skins/grass.png)](RulerDefinition_Grama.ar4w)  
 com agradecimentos ao Don Harvey, [www.donhavey.com](http://donhavey.com/blog/tutorials/ik-springy-grass/)  
 
 Gatinho  
-[![Gatinho](/images/kitten.png)](RulerDefinition_Gatinho.ar4w)  
+[![Gatinho](/images/skins/kitten.png)](RulerDefinition_Gatinho.ar4w)  
 com agradecimentos ao luckywhitegirl, [www.flickr.com](http://www.flickr.com/photos/luckywhitegirl/2541902083)  
    
 Abeto  
-[![Abetoo](/images/spruce.png)](RulerDefinition_Abeto.ar4w)  
+[![Abetoo](/images/skins/spruce.png)](RulerDefinition_Abeto.ar4w)  
 tomada com minha própria câmera   
 
 Arco-Iris  
-[![Arco-Iris](/images/rainbow.png)](RulerDefinition_Arcro-Iris.ar4w)  
+[![Arco-Iris](/images/skins/rainbow.png)](RulerDefinition_Arcro-Iris.ar4w)  
 com agradecimentos ao Thelma, [thelma1.deviantart.com](http://thelma1.deviantart.com/)  
 
 Escola de Atenas  
-[![Escola de Atenas](/images/ShoolOfAthens.png)](RulerDefinition_Escola%20de%20Atenas.ar4w)  
+[![Escola de Atenas](/images/skins/ShoolOfAthens.png)](RulerDefinition_Escola%20de%20Atenas.ar4w)  
 com agradecimentos ao Raphael
 
 **Compartilhar “Skins”:** usando Uma Régua para Windows, você pode clicar no botão "Localizar" na janela de “Skins” para ver onde seus arquivos de “Skins” estão armazenados em seu computador. Você pode, então, enviar estes arquivos “Skins” para seus amigos por e-mail. Uma vez que seu amigo recebe os arquivos “Skins”, eles só precisam de um duplo clique sobre eles para ter suas “Skins” adicionadas à coleção dele.

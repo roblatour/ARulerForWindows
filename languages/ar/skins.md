@@ -21,30 +21,30 @@
 
 
 أكوا  
-[![أكوا](/images/Aqua.png)](RulerDefinition_Aqua.ar4w)  
+[![أكوا](/images/skins/Aqua.png)](RulerDefinition_Aqua.ar4w)  
   
 الشفق القطبي  
-[![الشفق القطبي](/images/AuroraBorealis.png)](RulerDefinition_Aurora_Borealis.ar4w)  
+[![الشفق القطبي](/images/skins/AuroraBorealis.png)](RulerDefinition_Aurora_Borealis.ar4w)  
 مع الشكر ل Madx1980, [commons.wikimedia.org](http://commons.wikimedia.org/wiki/File:Aurora_Borealis_in_north_pole.jpg)  
    
 حائط طوبي  
-[![حائط طوبي](/images/BrickWall.png)](RulerDefinition_BrickWall.ar4w)  
+[![حائط طوبي](/images/skins/BrickWall.png)](RulerDefinition_BrickWall.ar4w)  
  مع الشكر ل [www.publicdomainpictures.net](http://www.publicdomainpictures.net/view-image.php?image=1281&picture=brick-wall)  
    
 عشب  
-[![عشب](/images/grass.png)](RulerDefinition_Grass.ar4w)  
+[![عشب](/images/skins/grass.png)](RulerDefinition_Grass.ar4w)  
 مع الشكر ل [www.donhavey.com](http://donhavey.com/blog/tutorials/ik-springy-grass/)  
  قطه صغيرة  
-[![قطه صغيرة](/images/kitten.png)](RulerDefinition_Kitten.ar4w)  
+[![قطه صغيرة](/images/skins/kitten.png)](RulerDefinition_Kitten.ar4w)  
   مع الشكر ل Luckywhitegirl، [www.flickr.com](http://www.flickr.com/photos/luckywhitegirl/2541902083)  
    
 قوس المطر  
- [![قوس المطر](/images//rainbow.png)](RulerDefinition_Rainbow.ar4w)  
+ [![قوس المطر](/images/skins//rainbow.png)](RulerDefinition_Rainbow.ar4w)  
  مع الشكر ل [thelma1.deviantart.com](http://thelma1.deviantart.com/)  
  مدرسة أثينا  
-[![مدرسة أثينا](/images/ShoolOfAthens.png)](RulerDefinition_School%20of%20Athens.ar4w)  
+[![مدرسة أثينا](/images/skins/ShoolOfAthens.png)](RulerDefinition_School%20of%20Athens.ar4w)  
 مع الشكر لرافائيلشجرة التنوب  
-[![شجرة التنوب](/images/spruce.png)](RulerDefinition_Spruce.ar4w)  
+[![شجرة التنوب](/images/skins/spruce.png)](RulerDefinition_Spruce.ar4w)  
 تم التقاطها بالكاميرا الخاصة بي   
  
   

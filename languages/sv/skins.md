@@ -19,34 +19,34 @@ Om du gillar en, vänligen bara:
 Du kan göra detta för så många av skinnen nedan som du vill.
 
 Aqua  
-[![Aqua](/images/Aqua.png)](RulerDefinition_Aqua.ar4w)  
+[![Aqua](/images/skins/Aqua.png)](RulerDefinition_Aqua.ar4w)  
   
 Norrsken  
-[![Aurore boréale](/images/AuroraBorealis.png)](RulerDefinition_Norrsken.ar4w)  
+[![Aurore boréale](/images/skins/AuroraBorealis.png)](RulerDefinition_Norrsken.ar4w)  
 med tack vare Madx1980, [commons.wikimedia.org](http://commons.wikimedia.org/wiki/File:Aurora_Borealis_in_north_pole.jpg)  
    
 Tegelvägg  
-[![Brick Wall](/images/BrickWall.png)](RulerDefinition_Tegelvagg.ar4w)  
+[![Brick Wall](/images/skins/BrickWall.png)](RulerDefinition_Tegelvagg.ar4w)  
 med tack vare Petr Kratochvil, [www.publicdomainpictures.net](http://www.publicdomainpictures.net/view-image.php?image=1281&picture=brick-wall)  
    
 Gräs  
-[![Herbe](/images/grass.png)](RulerDefinition_Gras.ar4w)  
+[![Herbe](/images/skins/grass.png)](RulerDefinition_Gras.ar4w)  
 med tack vare Don Harvey, [www.donhavey.com](http://donhavey.com/blog/tutorials/ik-springy-grass/)  
 
 Kattunge  
-[![Chaton](/images/kitten.png)](RulerDefinition_Kattunge.ar4w)  
+[![Chaton](/images/skins/kitten.png)](RulerDefinition_Kattunge.ar4w)  
 med tack vare luckywhitegirl, [www.flickr.com](http://www.flickr.com/photos/luckywhitegirl/2541902083)  
    
 Gran  
-[![Gran](/images/spruce.png)](RulerDefinition_Gran.ar4w)  
+[![Gran](/images/skins/spruce.png)](RulerDefinition_Gran.ar4w)  
 Tagit med min egen kamera   
 
 Regnbåge  
-[![Arc en cie](/images/rainbow.png)](RulerDefinition_Regnbage.ar4w)  
+[![Arc en cie](/images/skins/rainbow.png)](RulerDefinition_Regnbage.ar4w)  
 med tack vare Thelma, [thelma1.deviantart.com](http://thelma1.deviantart.com/)  
 
 Skola av Athens  
-[![School of Athens](/images/ShoolOfAthens.png)](RulerDefinition_Skola%20av%20Athens.ar4w)  
+[![School of Athens](/images/skins/ShoolOfAthens.png)](RulerDefinition_Skola%20av%20Athens.ar4w)  
 med tack vare Raphael
 
 **Dela skins:** med Windows-linjalen kan du klicka på 'Locate'-knappen i Skins-fönstret för att se var dina skins finns lagrade på din dator. Du kan sedan e-posta dem till dina vänner. När din vän fått ditt skin så dubbelklickar de bara på dem för att lägga till dem i sina egna samlingar.  

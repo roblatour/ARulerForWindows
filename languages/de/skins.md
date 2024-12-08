@@ -23,34 +23,34 @@ Wenn Ihnen einer gefällt, dann gehen Sie wie folgt vor:
 Sie können dies für so viele der unten aufgeführten Skins tun, wie Sie möchten.
 
 Wasser  
-[![Aurora Borealis](/images/Aqua.png)](RulerDefinition_Wasser.ar4w)  
+[![Aurora Borealis](/images/skins/Aqua.png)](RulerDefinition_Wasser.ar4w)  
   
 Nordlicht  
-[![Nordlicht](/images/AuroraBorealis.png)](RulerDefinition_Nordlicht.ar4w)  
+[![Nordlicht](/images/skins/AuroraBorealis.png)](RulerDefinition_Nordlicht.ar4w)  
 mit Dank an Madx1980, [commons.wikimedia.org](http://commons.wikimedia.org/wiki/File:Aurora_Borealis_in_north_pole.jpg)  
    
 Backsteinmauer  
-[![Backsteinmauer](/images/BrickWall.png)](RulerDefinition_Backsteinmauer.ar4w)  
+[![Backsteinmauer](/images/skins/BrickWall.png)](RulerDefinition_Backsteinmauer.ar4w)  
 mit Dank an Petr Kratochvil, [www.publicdomainpictures.net](http://www.publicdomainpictures.net/view-image.php?image=1281&picture=brick-wall)  
    
 Gras  
-[![Gras](/images/grass.png)](RulerDefinition_Gras.ar4w)  
+[![Gras](/images/skins/grass.png)](RulerDefinition_Gras.ar4w)  
 mit Dank an  Don Harvey, [www.donhavey.com](http://donhavey.com/blog/tutorials/ik-springy-grass/)  
 
 Kätzchen  
-[![Kätzchen](/images/kitten.png)](RulerDefinition_Katzchen.ar4w)  
+[![Kätzchen](/images/skins/kitten.png)](RulerDefinition_Katzchen.ar4w)  
 mit Dank an luckywhitegirl, [www.flickr.com](http://www.flickr.com/photos/luckywhitegirl/2541902083)  
    
 Fichte  
-[![Fichte](/images/spruce.png)](RulerDefinition_Fichte.ar4w)  
+[![Fichte](/images/skins/spruce.png)](RulerDefinition_Fichte.ar4w)  
 aken mit meiner eigenen kamera   
 
 Regenbogen  
-[![Regenbogen](/images/rainbow.png)](RulerDefinition_Regenbogen.ar4w)  
+[![Regenbogen](/images/skins/rainbow.png)](RulerDefinition_Regenbogen.ar4w)  
 mit Dank an Thelma, [thelma1.deviantart.com](http://thelma1.deviantart.com/)  
 
 Schule von Athen  
-[![Schule von Athen](/images/ShoolOfAthens.png)](RulerDefinition_Schule%20von%20Athen.ar4w)  
+[![Schule von Athen](/images/skins/ShoolOfAthens.png)](RulerDefinition_Schule%20von%20Athen.ar4w)  
 mit Dank an Raphael
 
 **Skins teilen:** Wenn Sie Ein Lineal für Windows benutzen, können Sie auf den „Finden“-Button in dem Fenster mit den Skins klicken, um zu sehen, wo auf Ihrem Computer Ihre Skin-Dateien gespeichert sind. Sie können diese Skin-Dateien dann Ihren Freunden e-mailen. Sobald Ihr(e) Freund(in) Ihre Skin-Dateien erhält, muss er/sie nur auf diese doppelklicken, um Sie seiner/ihrer Sammlung hinzuzufügen. 

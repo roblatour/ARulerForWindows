@@ -19,34 +19,34 @@ Vous pouvez le faire pour autant de skins ci-dessous que vous le souhaitez.
 
 
 Aqua  
-[![Aqua](/images/Aqua.png)](RulerDefinition_Aqua.ar4w)  
+[![Aqua](/images/skins/Aqua.png)](RulerDefinition_Aqua.ar4w)  
   
 Aurore Boréale  
-[![Aurore boréale](/images/AuroraBorealis.png)](RulerDefinition_Aurore%20Boreale.ar4w)  
+[![Aurore boréale](/images/skins/AuroraBorealis.png)](RulerDefinition_Aurore%20Boreale.ar4w)  
 avec grâce à Madx1980, [commons.wikimedia.org](http://commons.wikimedia.org/wiki/File:Aurora_Borealis_in_north_pole.jpg)  
    
 Mur de briques  
-[![Brick Wall](/images/BrickWall.png)](RulerDefinition_Mur%20de%20Briques.ar4w)  
+[![Brick Wall](/images/skins/BrickWall.png)](RulerDefinition_Mur%20de%20Briques.ar4w)  
 avec grâce à Petr Kratochvil, [www.publicdomainpictures.net](http://www.publicdomainpictures.net/view-image.php?image=1281&picture=brick-wall)  
    
 Herbe  
-[![Herbe](/images/grass.png)](RulerDefinition_Herbe.ar4w)  
+[![Herbe](/images/skins/grass.png)](RulerDefinition_Herbe.ar4w)  
 avec grâce à Don Harvey, [www.donhavey.com](http://donhavey.com/blog/tutorials/ik-springy-grass/)  
 
 Chaton  
-[![Chaton](/images/kitten.png)](RulerDefinition_Chaton.ar4w)  
+[![Chaton](/images/skins/kitten.png)](RulerDefinition_Chaton.ar4w)  
 avec grâce à luckywhitegirl, [www.flickr.com](http://www.flickr.com/photos/luckywhitegirl/2541902083)  
    
 Epicéa  
-[![Pines](/images/spruce.png)](RulerDefinition_Epicea.ar4w)  
+[![Pines](/images/skins/spruce.png)](RulerDefinition_Epicea.ar4w)  
 prise avec mon propre appareil photo   
 
 Arc en Ciel  
-[![Arc en cie](/images/rainbow.png)](RulerDefinition_Arc%20en%20Ciel.ar4w)  
+[![Arc en cie](/images/skins/rainbow.png)](RulerDefinition_Arc%20en%20Ciel.ar4w)  
 avec grâce à Thelma, [thelma1.deviantart.com](http://thelma1.deviantart.com/)  
 
 École d'Athènes  
-[![School of Athens](/images/ShoolOfAthens.png)](RulerDefinition_Ecole%20d%20Athenes.ar4w)  
+[![School of Athens](/images/skins/ShoolOfAthens.png)](RulerDefinition_Ecole%20d%20Athenes.ar4w)  
 avec grâce à Raphael
 
 **Partager les textures:** en utilisant Une Règle Pour Windows, vous pouvez cliquer sur le bouton “Localiser” dans la fenêtre des textures pour voir si vos fichiers texture sont stockés dans votre ordinateur. Vous pouvez ensuite envoyez ces textures par email à vos amis. Une fois que votre ami a reçu votre fichier texture, il/elle devra simplement double-cliquer sur celui-ci pour ajouter votre texture à leur collection.  

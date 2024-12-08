@@ -19,34 +19,34 @@ Możesz to zrobić dla dowolnej liczby skórek poniżej, które Ci się podobaj�
 
 
  Aqua  
-[![Aqua](/images/Aqua.png)](RulerDefinition_Aqua.ar4w)  
+[![Aqua](/images/skins/Aqua.png)](RulerDefinition_Aqua.ar4w)  
   
 Aurora Borealis  
-[![Aurora Borealis](/images/AuroraBorealis.png)](RulerDefinition_Aurora_Borealis.ar4w)  
+[![Aurora Borealis](/images/skins/AuroraBorealis.png)](RulerDefinition_Aurora_Borealis.ar4w)  
 ze sprawa Madx1980, [commons.wikimedia.org](http://commons.wikimedia.org/wiki/File:Aurora_Borealis_in_north_pole.jpg)  
    
 Mur z Cegly  
-[![Mur z Cegly](/images/BrickWall.png)](RulerDefinition_Mur%20z%20Cegly.ar4w)  
+[![Mur z Cegly](/images/skins/BrickWall.png)](RulerDefinition_Mur%20z%20Cegly.ar4w)  
 ze sprawa Petr Kratochvil, [www.publicdomainpictures.net](http://www.publicdomainpictures.net/view-image.php?image=1281&picture=brick-wall)  
    
 Trawka  
-[![Trawka](/images/grass.png)](RulerDefinition_Trawka.ar4w)  
+[![Trawka](/images/skins/grass.png)](RulerDefinition_Trawka.ar4w)  
 ze sprawa Don Harvey, [www.donhavey.com](http://donhavey.com/blog/tutorials/ik-springy-grass/)  
 
 Kotek  
-[![Kotek](/images/kitten.png)](RulerDefinition_Koten.ar4w)  
+[![Kotek](/images/skins/kitten.png)](RulerDefinition_Koten.ar4w)  
 ze sprawa luckywhitegirl, [www.flickr.com](http://www.flickr.com/photos/luckywhitegirl/2541902083)  
    
 Swierk  
-[![Swierk](/images/spruce.png)](RulerDefinition_Swierk.ar4w)  
+[![Swierk](/images/skins/spruce.png)](RulerDefinition_Swierk.ar4w)  
 zrobione z mojego aparatu   
 
 Tęcza  
-[![Tecza](/images/rainbow.png)](RulerDefinition_Tecza.ar4w)  
+[![Tecza](/images/skins/rainbow.png)](RulerDefinition_Tecza.ar4w)  
 ze sprawa Thelma, [thelma1.deviantart.com](http://thelma1.deviantart.com/)  
 
 Szkoła w Atenach  
-[![Szkola w Atenach](/images/ShoolOfAthens.png)](RulerDefinition_Szkola%20w%20Atenach.ar4w)  
+[![Szkola w Atenach](/images/skins/ShoolOfAthens.png)](RulerDefinition_Szkola%20w%20Atenach.ar4w)  
 ze sprawa Raphael
 
 **Udostępnianie skórek:** W programie Linijka dla Windows należy kliknąć przycisk „Zlokalizuj” w oknie Skórki, aby zobaczyć w jakim katalogu są przechowywane. Następnie można wysłać je e-mailem do znajomych. Po odebraniu skórek przez znajomych wystarczy, że dwukrotnie na nie klikną, a zostaną dodane do ich kolekcji.  

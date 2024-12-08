@@ -20,34 +20,34 @@ Se ne desideri una, allora ti preghiamo di:
 Puoi farlo per tutte le skin qui sotto che vuoi.
 
 Acqua  
-[![Acqua](/images/Aqua.png)](RulerDefinition_Acqua.ar4w)  
+[![Acqua](/images/skins/Aqua.png)](RulerDefinition_Acqua.ar4w)  
   
 Aurora Boreale  
-[![Aurora Boreale](/images/AuroraBorealis.png)](RulerDefinition_Aurora%20Boreale.ar4w)  
+[![Aurora Boreale](/images/skins/AuroraBorealis.png)](RulerDefinition_Aurora%20Boreale.ar4w)  
 con grazie Madx1980, [commons.wikimedia.org](http://commons.wikimedia.org/wiki/File:Aurora_Borealis_in_north_pole.jpg)  
    
 Muro de Mattoni  
-[![Muro de Mattoni](/images/BrickWall.png)](RulerDefinition_Muro%20de%20Mattoni.ar4w)  
+[![Muro de Mattoni](/images/skins/BrickWall.png)](RulerDefinition_Muro%20de%20Mattoni.ar4w)  
 con grazie Petr Kratochvil, [www.publicdomainpictures.net](http://www.publicdomainpictures.net/view-image.php?image=1281&picture=brick-wall)  
    
 Erba  
-[![Erba](/images/grass.png)](RulerDefinition_Erba.ar4w)  
+[![Erba](/images/skins/grass.png)](RulerDefinition_Erba.ar4w)  
 con grazie Don Harvey, [www.donhavey.com](http://donhavey.com/blog/tutorials/ik-springy-grass/)  
 
 Gattino  
-[![Gattino](/images/kitten.png)](RulerDefinition_Gattino.ar4w)  
+[![Gattino](/images/skins/kitten.png)](RulerDefinition_Gattino.ar4w)  
 con grazie luckywhitegirl, [www.flickr.com](http://www.flickr.com/photos/luckywhitegirl/2541902083)  
    
 Abete rosso  
-[![Abete rosso](/images/spruce.png)](RulerDefinition_Abete_Rosso.ar4w)  
+[![Abete rosso](/images/skins/spruce.png)](RulerDefinition_Abete_Rosso.ar4w)  
 preso con la mia macchina fotografica   
 
 Arcobaleno  
-[![Arcobaleno](/images/rainbow.png)](RulerDefinition_Arcobaleno.ar4w)  
+[![Arcobaleno](/images/skins/rainbow.png)](RulerDefinition_Arcobaleno.ar4w)  
 con grazie Thelma, [thelma1.deviantart.com](http://thelma1.deviantart.com/)  
 
 Scuola di Atene  
-[![Scuola di Atene](/images/ShoolOfAthens.png)](RulerDefinition_Scuola%20di%20Atene.ar4w)  
+[![Scuola di Atene](/images/skins/ShoolOfAthens.png)](RulerDefinition_Scuola%20di%20Atene.ar4w)  
 con grazie Raphael
 
 **Condivisione delle Skin:** utilizzando Un Righello per Windows puoi fare clic sul pulsante 'Locate' sulla finestra delle Skin per vedere dove i file delle tue skin sono registrati sul tuo computer. Puoi  quindi inviare i file di skin ai tuoi amici con una e-mail. Una volta che un tuo amico riceve i file di skin, ha solo bisogno di fare un doppio clic su di loro per aggiungere le skin alla sua raccolta.  

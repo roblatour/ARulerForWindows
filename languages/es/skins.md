@@ -19,34 +19,34 @@ Si le gusta una, solo tiene que:
 Puede hacer esto con todas las máscaras que desee de las que aparecen a continuación.
 
 Aqua  
-[![Aurora Borealis](/images/Aqua.png)](RulerDefinition_Aqua.ar4w)  
+[![Aurora Borealis](/images/skins/Aqua.png)](RulerDefinition_Aqua.ar4w)  
   
 Aurora Borealis  
-[![Aurora Borealis](/images/AuroraBorealis.png)](RulerDefinition_Aurora%20Borealis.ar4w)  
+[![Aurora Borealis](/images/skins/AuroraBorealis.png)](RulerDefinition_Aurora%20Borealis.ar4w)  
 con gracias a Madx1980, [commons.wikimedia.org](http://commons.wikimedia.org/wiki/File:Aurora_Borealis_in_north_pole.jpg)  
    
 Pared de Ladrillo  
-[![Pared de Ladrillo](/images/BrickWall.png)](RulerDefinition_Pared%20de%20Ladrillo.ar4w)  
+[![Pared de Ladrillo](/images/skins/BrickWall.png)](RulerDefinition_Pared%20de%20Ladrillo.ar4w)  
 con gracias a Petr Kratochvil, [www.publicdomainpictures.net](http://www.publicdomainpictures.net/view-image.php?image=1281&picture=brick-wall)  
    
 Hierba  
-[![Hierba](/images/grass.png)](RulerDefinition_Hierba.ar4w)  
+[![Hierba](/images/skins/grass.png)](RulerDefinition_Hierba.ar4w)  
 con gracias a Don Harvey, [www.donhavey.com](http://donhavey.com/blog/tutorials/ik-springy-grass/)  
 
  Gatito  
-[![Gatito](/images/kitten.png)](RulerDefinition_Gatito.ar4w)  
+[![Gatito](/images/skins/kitten.png)](RulerDefinition_Gatito.ar4w)  
 con gracias a luckywhitegirl, [www.flickr.com](http://www.flickr.com/photos/luckywhitegirl/2541902083)  
    
 Árbol de Abeto  
-[![Árbol de Abeto](/images/spruce.png)](RulerDefinition_Arbol%20de%20Abeto.ar4w)  
+[![Árbol de Abeto](/images/skins/spruce.png)](RulerDefinition_Arbol%20de%20Abeto.ar4w)  
 aken con mi propia cámara   
 
 Arco Iris  
-[![Arco Iris](/images/rainbow.png)](RulerDefinition_Arco%20Iris.ar4w)  
+[![Arco Iris](/images/skins/rainbow.png)](RulerDefinition_Arco%20Iris.ar4w)  
 con gracias a Thelma, [thelma1.deviantart.com](http://thelma1.deviantart.com/)  
 
 Escuela de Atenas  
-[![Escuela de Atenas](/images/ShoolOfAthens.png)](RulerDefinition_Escuela%20de%20Atenas.ar4w)  
+[![Escuela de Atenas](/images/skins/ShoolOfAthens.png)](RulerDefinition_Escuela%20de%20Atenas.ar4w)  
 con gracias a Raphael
 
 **Compartir Skins:** Usando la regla para Windows, usted puede hacer clic en el botón "Localizar " en la ventana Carcasas para ver dónde están sus archivos de carcasas almacenadas en su ordenador. Puede entonces enviar un correo electrónico con los archivos de carcasa a tus amigos. Una vez que su amigo recibe los archivos de la carcasa, sólo tiene que hacer doble clic sobre ellos para que sus carcasas se añadan a su colección.   

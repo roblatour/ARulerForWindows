@@ -20,33 +20,33 @@ Je kunt dit doen voor zoveel skins hieronder als je wilt.
 
 
 Water  
-[![Aqua](/images/Aqua.png)](RulerDefinition_Water.ar4w)  
+[![Aqua](/images/skins/Aqua.png)](RulerDefinition_Water.ar4w)  
   
 Aurora Borealis  
-[![Aurore boréale](/images/AuroraBorealis.png)](RulerDefinition_Aurora%20Borealis.ar4w)  
+[![Aurore boréale](/images/skins/AuroraBorealis.png)](RulerDefinition_Aurora%20Borealis.ar4w)  
 met dank aan Madx1980, [commons.wikimedia.org](http://commons.wikimedia.org/wiki/File:Aurora_Borealis_in_north_pole.jpg)  
    
 Mur de briques  
-[![Brick Wall](/images/BrickWall.png)](RulerDefinition_Bakstenen%20muur.ar4w)  
+[![Brick Wall](/images/skins/BrickWall.png)](RulerDefinition_Bakstenen%20muur.ar4w)  
 met dank aan Petr Kratochvil, [www.publicdomainpictures.net](http://www.publicdomainpictures.net/view-image.php?image=1281&picture=brick-wall)  
    
 Gras  
-[![Herbe](/images/grass.png)](RulerDefinition_Gras.ar4w)  
+[![Herbe](/images/skins/grass.png)](RulerDefinition_Gras.ar4w)  
 met dank aan Don Harvey, [www.donhavey.com](http://donhavey.com/blog/tutorials/ik-springy-grass/)  
  Poesjes  
-[![Chaton](/images/kitten.png)](RulerDefinition_Poesjes.ar4w)  
+[![Chaton](/images/skins/kitten.png)](RulerDefinition_Poesjes.ar4w)  
 met dank aan luckywhitegirl, [www.flickr.com](http://www.flickr.com/photos/luckywhitegirl/2541902083)  
    
 Spar  
-[![Pines](/images/spruce.png)](RulerDefinition_Spar.ar4w)  
+[![Pines](/images/skins/spruce.png)](RulerDefinition_Spar.ar4w)  
 Foto gemaakt met mijn eigen camera   
 
 Regenboog  
-[![Arc en cie](/images/rainbow.png)](RulerDefinition_Regenboog.ar4w)  
+[![Arc en cie](/images/skins/rainbow.png)](RulerDefinition_Regenboog.ar4w)  
 met dank aan Thelma, [thelma1.deviantart.com](http://thelma1.deviantart.com/)  
 
 School van Athene  
-[![School of Athens](/images/ShoolOfAthens.png)](RulerDefinition_School%20van%20Athene.ar4w)  
+[![School of Athens](/images/skins/ShoolOfAthens.png)](RulerDefinition_School%20van%20Athene.ar4w)  
 met dank aan Raphael
 
 **Delen van stijlen (skins):** Als je 'Een Meetlat voor Windows' gebruikt kan je klikken op de 'Localiseer'-knop op het stijlen venster om te zien waar de skinbestanden zich bevinden op je computer. Je kan dan via e-mail deze skins doorsturen naar je vrienden. Eenmaal je vrienden de skinbestanden ontvangen hebben, hoeven ze daar alleen nog maar op te dubbelklikken om ze toe te voegen in hun collectie. 
