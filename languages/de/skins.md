@@ -1,247 +1,66 @@
-<!DOCTYPE HTML>
-<html lang="de">
-<head>
-  <meta name="generator" content="HTML Tidy for HTML5 for Windows version 5.8.0">
-  <title>Ein Lineal für Windows extra-skins</title>
-  <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
-  <meta name="keywords" content="Lineal, auf dem Bildschirm Lineal, Online-Lineal, Bildschirmlineal, Pixel-Lineal, Lineal auf dem Bildschirm, Lineal online, ein Lineal, Bildschirmlineal, kostenlose Herrscher, Leseanleitung , auf dem Bildschirm lesen, Online-Lese Begleiter, gratis, freeware">
-  <meta name="description" content="Kostenlose Bildschirmpixel ruler | Lesebuch für Windows - mit anpassbaren Skins.">
-  <link rel="stylesheet" href="lightbox.css" type="text/css" media="screen">
-  <script type="text/javascript" src="prototype.js"></script>
-  <script type="text/javascript" src="scriptaculous.js?load=effects"></script>
-  <script type="text/javascript" src="lightbox.js"></script>
-  <style type="text/css">
-  .style1 {
-        text-align: left;
-  }
-  .style13 {
-        font-family: Arial;
-  }
-  .style16 {
-        border-width: 0px;
-  }
-  .style17 {
-        text-align: left;
-        font-family: Arial;
-  }
-  .style18 {
-        border-width: 0;
-  }
-  .style19 {
-        font-family: Arial;
-        text-align: center;
-  }
-  .auto-style1 {
-        text-align: center;
-  }
-  </style><!-- Global site tag (gtag.js) - Google Analytics -->
+# Ein Lineal für Windows  - extra-skins
 
-  <script type="text/plain" cookie-consent="tracking" async src="https://www.googletagmanager.com/gtag/js?id=G-BJX77T610Z"></script>
-  <script type="text/plain" cookie-consent="tracking">
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
+<!-- header -->
 
-  gtag('config', 'G-BJX77T610Z');
-  </script>
-</head>
-<body>
-  <center>
-    <table style="width: 626; height: 615; text-align: left; margin-left: auto; margin-right: auto;" border="0" cellpadding="2">
-      <tbody>
-        <tr>
-          <td style="text-align: center;" colspan="2" rowspan="1">
-            <h1 style="text-align: left; height: 37px;"><span style="font-family: Arial;"><a href="https://www.arulerforwindows.com/de/index.html">Ein Lineal für Windows</a> <small><small><small>(extra-skins)</small></small></small></span></h1>
-            <hr style="width: 750; height: 2px;">
-          </td>
-        </tr>
-        <tr>
-          <td style="text-align: center;" colspan="2">
-            <table style="width: 100%">
-              <tr>
-			    <td class="auto-style1">
-				  <a href="https://www.arulerforwindows.com/ar/index.html"><img alt="تغيير اللغة إلى العربية" src="https://www.arulerforwindows.com/images/flags/ar.png" class="auto-style1"></a><br>
-                  <a href="https://www.arulerforwindows.com/ar/skins.html">عربي</a>
-                </td>
-                <td class="auto-style1">
-                  <a href="https://www.arulerforwindows.com/de/skins.html"><img alt="Ändern Sie die Sprache auf Deutsch" src="https://www.arulerforwindows.com/images/flags/de.png" class="auto-style1"></a><br>
-                  <a href="https://www.arulerforwindows.com/de/skins.html">Deutsch</a>
-                </td>
-                <td class="auto-style1">
-                  <a href="https://www.arulerforwindows.com/skins.html"><img alt="Change the language to English" src="https://www.arulerforwindows.com/images/flags/en_uk.png" class="auto-style1"></a><br>
-                  <a href="https://www.arulerforwindows.com/skins.html">English</a>
-                </td>
-                <td class="auto-style1">
-                  <a href="https://www.arulerforwindows.com/es/pieles.html"><img alt="Cambiar idioma a Español" src="https://www.arulerforwindows.com/images/flags/es.png" class="auto-style1"></a><br>
-                  <a href="https://www.arulerforwindows.com/es/pieles.html">Español</a>
-                </td>
-                <td class="auto-style1">
-                  <a href="https://www.arulerforwindows.com/fr/peaux.html"><img alt="Changer la langue vers le Français" src="https://www.arulerforwindows.com/images/flags/fr.png" class="auto-style1"></a><br>
-                  <a href="https://www.arulerforwindows.com/fr/peaux.html">Français</a>
-                </td>
-                <td class="auto-style1">
-                  <a href="https://www.arulerforwindows.com/it/pelli.html"><img alt="Cambia lingua Italiana" src="https://www.arulerforwindows.com/images/flags/it.png" class="auto-style1"></a><br>
-                  <a href="https://www.arulerforwindows.com/it/pelli.html">Italiano</a>
-                </td>
-                <td class="style10">
-                  <a href="https://www.arulerforwindows.com/nl/index.html"><img alt="Verander de taal in Nederlands" src="https://www.arulerforwindows.com/images/flags/nl.png" class="auto-style1"></a><br>
-                  <a href="https://www.arulerforwindows.com/nl/index.html">Nederlands</a>
-                </td>
-                <td class="auto-style1">
-                  <a href="https://www.arulerforwindows.com/pl/skorki.html"><img alt="Zmień język na Polski" src="https://www.arulerforwindows.com/images/flags/pl.png" class="auto-style1"></a><br>
-                  <a href="https://www.arulerforwindows.com/pl/skorki.html">Polski</a>
-                </td>
-                <td class="auto-style1">
-                  <a href="https://www.arulerforwindows.com/pt/peles.html"><img alt="Zmień język na Portugalski" src="https://www.arulerforwindows.com/images/flags/pt.png" class="auto-style1"></a><br>
-                  <a href="https://www.arulerforwindows.com/pt/peles.html">Português</a>
-                </td>
-                <td class="auto-style1">
-                  <a href="https://www.arulerforwindows.com/sv/skinn.html"><img alt="Ändra språk till svenska" src="https://www.arulerforwindows.com/images/flags/sv.png" class="auto-style1"></a><br>
-                  <a href="https://www.arulerforwindows.com/sv/skinn.html">Svenska</a>
-                </td>
-              </tr>
-            </table>
-          </td>
-        </tr>
-        <tr>
-          <td style="text-align: center;" colspan="2">
-            <hr style="width: 750; height: 2px;">
-          </td>
-        </tr>
-        <tr>
-          <td colspan="3" class="style1"><span style="font-family: Arial;">Hier sind einige weitere kostenlose Skins, die Sie gern Ihrer Sammlung hinzufügen können.<br>
-          <br>
-          Wenn Sie Ein Lineal für Windows auf Ihrem PC installiert haben, doppelklicken Sie einfach auf einen der Skins unten, öffnen Sie die heruntergeladene Datei und der Skin wird automatisch Ihrer Sammlung hinzugefügt.<br>
-          &nbsp;</span></td>
-        </tr>
-        <tr>
-          <td style="width: 200px;" rowspan="9">
-            <script type="text/plain" cookie-consent="targeting">
-            <!--
-            google_ad_client = "pub-5016632661961945";32661961945";
-            /* 160x600 - Text Only */
-            google_ad_slot = "9871811656";
-            google_ad_width = 160;
-            google_ad_height = 600;
-            //-->
-            </script> 
-            <script type="text/plain" cookie-consent="targeting" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script><br>
-            &nbsp;<br>
-            <script type="text/javascript">
+|||||||||||
+| :---: | :---: | :---: | :---: | :---: |:---: | :---: | :---: |:---: | :---: |
+| [![عربي](/images/flags/ar.png)](../en/README.md)<br>[عربي](../ar/README.md) | [![Deutsch](/images/flags/de.png)](../de/README.md)<br>[Deutsch](../de/README.md) | [![English](/images/flags/en-GB.png)](../en/README.md)<br>[English](../en/README.md) | [![Español](/images/flags/es.png)](../es/README.md)<br>[Español](../es/README.md) | [![Français](/images/flags/fr.png)](../fr/README.md)<br>[Français](../fr/README.md)| [![Italiano](/images/flags/it.png)](../it/README.md)<br>[Italiano](../it/README.md) | [![Nederlands](/images/flags/nl.png)](../nl/README.md)<br>[Nederlands](../nl/README.md) | [![Polski](/images/flags/pl.png)](../pl/README.md)<br>[Polski](../pl/README.md) | [![Português](/images/flags/pt.png)](../pt/README.md)<br>[Português](../pt/README.md) | [![Svenska](/images/flags/sv.png)](../sv/README.md)<br>[Svenska](../sv/README.md) |
+
+- - -
+<br>
+<!-- header -->
+
+Unten finden Sie einige kostenlose zusätzliche Skins, die Sie gerne zu Ihrer Sammlung hinzufügen können.
+
+Wenn Ihnen einer gefällt, dann gehen Sie wie folgt vor:
+
+1. Klicken Sie auf das Bild unten,
+
+2. Klicken Sie auf der sich öffnenden Webseite oben links auf der Github-Seite auf das Symbol „Download Raw“, um die Skin-Definitionsdatei herunterzuladen,
+
+3. Wenn Sie fertig sind und A Ruler für Windows auf Ihrem PC installiert haben, doppelklicken Sie einfach auf die heruntergeladene Datei und der Skin wird automatisch zu Ihrer Sammlung hinzugefügt.
+
+Sie können dies für so viele der unten aufgeführten Skins tun, wie Sie möchten.
+
+Wasser  
+[![Aurora Borealis](/images/Aqua.png)](RulerDefinition_Wasser.ar4w)  
+  
+Nordlicht  
+[![Nordlicht](/images/AuroraBorealis.png)](RulerDefinition_Nordlicht.ar4w)  
+mit Dank an Madx1980, [commons.wikimedia.org](http://commons.wikimedia.org/wiki/File:Aurora_Borealis_in_north_pole.jpg)  
+   
+Backsteinmauer  
+[![Backsteinmauer](/images/BrickWall.png)](RulerDefinition_Backsteinmauer.ar4w)  
+mit Dank an Petr Kratochvil, [www.publicdomainpictures.net](http://www.publicdomainpictures.net/view-image.php?image=1281&picture=brick-wall)  
+   
+Gras  
+[![Gras](/images/grass.png)](RulerDefinition_Gras.ar4w)  
+mit Dank an  Don Harvey, [www.donhavey.com](http://donhavey.com/blog/tutorials/ik-springy-grass/)  
+
+Kätzchen  
+[![Kätzchen](/images/kitten.png)](RulerDefinition_Katzchen.ar4w)  
+mit Dank an luckywhitegirl, [www.flickr.com](http://www.flickr.com/photos/luckywhitegirl/2541902083)  
+   
+Fichte  
+[![Fichte](/images/spruce.png)](RulerDefinition_Fichte.ar4w)  
+aken mit meiner eigenen kamera   
+
+Regenbogen  
+[![Regenbogen](/images/rainbow.png)](RulerDefinition_Regenbogen.ar4w)  
+mit Dank an Thelma, [thelma1.deviantart.com](http://thelma1.deviantart.com/)  
+
+Schule von Athen  
+[![Schule von Athen](/images/ShoolOfAthens.png)](RulerDefinition_Schule%20von%20Athen.ar4w)  
+mit Dank an Raphael
+
+**Skins teilen:** Wenn Sie Ein Lineal für Windows benutzen, können Sie auf den „Finden“-Button in dem Fenster mit den Skins klicken, um zu sehen, wo auf Ihrem Computer Ihre Skin-Dateien gespeichert sind. Sie können diese Skin-Dateien dann Ihren Freunden e-mailen. Sobald Ihr(e) Freund(in) Ihre Skin-Dateien erhält, muss er/sie nur auf diese doppelklicken, um Sie seiner/ihrer Sammlung hinzuzufügen. 
 
 
+* * * 
+## Unterstützt Ein Lineal Für Windows 
 
-
-
-            <!--
-            google_ad_client = "pub-5016632661961945";
-            /* Text Only 160x600 - 2 */
-            google_ad_slot = "6673526034";
-            google_ad_width = 160;
-            google_ad_height = 600;
-            //-->
-            </script> 
-            <script type="text/plain" cookie-consent="targeting" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script><br>
-            &nbsp;
-          </td>
-          <td style="width: 880px;">
-            <span class="style13">Wasser</span><br>
-            <a href="RulerDefinition_Wasser.ar4w"><img alt="Aurora Borealis" height="100" src="../skins/Aqua.png" width="400" class="style16"></a><br>
-            <br>
-          </td>
-        </tr>
-        <tr>
-          <td style="width: 880px;">
-            <span class="style13">Nordlicht</span><br>
-            <a href="RulerDefinition_Nordlicht.ar4w"><img alt="Nordlicht" height="100" src="../skins/AuroraBorealis.png" width="400" class="style16"></a><br>
-            <span class="style13">mit Dank an Madx1980, <a href="http://commons.wikimedia.org/wiki/File:Aurora_Borealis_in_north_pole.jpg">commons.wikimedia.org</a></span><br>
-            &nbsp;<br>
-          </td>
-        </tr>
-        <tr>
-          <td style="width: 880px;"><span class="style13">Backsteinmauer<br>
-          <a href="RulerDefinition_Backsteinmauer.ar4w"><img alt="Backsteinmauer" src="../skins/BrickWall.png" height="100" width="400" class="style18"></a></span><br class="style13">
-          <span class="style13">mit Dank an Petr Kratochvil, <a href="http://www.publicdomainpictures.net/view-image.php?image=1281&amp;picture=brick-wall">www.publicdomainpictures.net</a></span><br>
-          &nbsp;<br></td>
-        </tr>
-        <tr>
-          <td style="width: 880px;"><span class="style13">Gras<br>
-          <a href="RulerDefinition_Gras.ar4w"><img alt="Gras" height="100" src="../skins/grass.png" width="400" class="style18"></a></span><br class="style13">
-          <span class="style13">mit Dank an&nbsp; Don Harvey, <a href="http://donhavey.com/blog/tutorials/ik-springy-grass/">www.donhavey.com</a></span><br>
-          &nbsp;</td>
-        </tr>
-        <tr>
-          <td style="width: 880px;"><span class="style13">Kätzchen<br>
-          <a href="RulerDefinition_Katzchen.ar4w"><img alt="Kätzchen" height="100" src="../skins/kitten.png" width="400" class="style18"></a></span><br class="style13">
-          <span class="style13">mit Dank an luckywhitegirl, <a href="http://www.flickr.com/photos/luckywhitegirl/2541902083">www.flickr.com</a></span><br>
-          &nbsp;<br></td>
-        </tr>
-        <tr>
-          <td style="width: 880px;"><span class="style13">Fichte<br>
-          <a href="RulerDefinition_Fichte.ar4w"><img alt="Fichte" height="100" src="../skins/spruce.png" width="400" class="style18"></a></span><br class="style13">
-          <span class="style13">aken mit meiner eigenen kamera<br>
-          &nbsp;</span><br></td>
-        </tr>
-        <tr>
-          <td style="width: 880px;"><span class="style13">Regenbogen</span><br>
-          <span style="font-family: Arial;"><a href="RulerDefinition_Regenbogen.ar4w"><img alt="Regenbogen" class="style16" height="100" src="../skins/rainbow.png" width="400"></a><br>
-          <span class="style13">mit Dank an</span> Thelma, <a href="http://thelma1.deviantart.com/">thelma1.deviantart.com</a></span><br>
-          &nbsp;</td>
-        </tr>
-        <tr>
-          <td style="width: 880px;" class="style17">Schule von Athen<br>
-          <span style="font-family: Arial;"><a href="RulerDefinition_Schule%20von%20Athen.ar4w"><img alt="Schule von Athen" class="style16" height="100" src="../skins/ShoolOfAthens.png" width="400"></a></span><br>
-          <span class="style13">mit Dank an</span> Raphael</td>
-        </tr>
-        <tr>
-          <td style="width: 880px;" class="style1">
-            <table style="width: 100%" cellpadding="0">
-              <tr>
-                <td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
-                <td><span style="font-family: Arial;" class="textstyle0">&nbsp;</span></td>
-              </tr>
-            </table>
-          </td>
-        </tr>
-        <tr>
-          <td colspan="2" class="style17"><strong>Skins teilen:</strong> Wenn Sie Ein Lineal für Windows benutzen, können Sie auf den „Finden“-Button in dem Fenster mit den Skins klicken, um zu sehen, wo auf Ihrem Computer Ihre Skin-Dateien gespeichert sind. Sie können diese Skin-Dateien dann Ihren Freunden e-mailen. Sobald Ihr(e) Freund(in) Ihre Skin-Dateien erhält, muss er/sie nur auf diese
-          doppelklicken, um Sie seiner/ihrer Sammlung hinzuzufügen.<br></td>
-        </tr>
-        <tr>
-          <td colspan="2" class="style19">
-            &nbsp;&nbsp;<br>
-            <a href="JetztUnterstutzung.html">Spenden</a><br>
-            <br>
-            <a href="https://www.arulerforwindows.com/arulersetupv39.exe">Laden Sie ein Lineal für Windows</a><br>
-            <br>
-            <a href="https://www.arulerforwindows.com/de">Return to theZurück zu den 'Ein Lineal für Windows"-Homepage</a><br>
-          </td>
-        </tr>
-        <tr>
-          <td colspan="2" class="style19">
-            <hr style="width: 100%; height: 2px;">
-          </td>
-        </tr>
-        <tr>
-          <td colspan="2" rowspan="1"><span style="font-family: Arial;"><small><big><a href="mailto:info@arulerforwindows.com">info@arulerforwindows.com</a>&nbsp;&nbsp;Copyright 2006-2021 Rob Latour alle Rechte vorbehalten.</big></small></span></td>
-        </tr>
-        <tr>
-          <td colspan="2" valign="top">
-            <hr style="width: 100%; height: 2px;">
-          </td>
-          <td>&nbsp;</td>
-        </tr>
-      </tbody>
-    </table>
-  </center><!-- Cookie Consent by https://www.FreePrivacyPolicy.com -->
-  <script type="text/javascript" src="//www.freeprivacypolicy.com/public/cookie-consent/4.0.0/cookie-consent.js" charset="UTF-8"></script> 
-  <script type="text/javascript" charset="UTF-8">
-
-
-
-  document.addEventListener('DOMContentLoaded', function () {
-  cookieconsent.run({"notice_banner_type":"simple","consent_type":"express","palette":"light","language":"de","page_load_consent_levels":["strictly-necessary"],"notice_banner_reject_button_hide":false,"preferences_center_close_button_hide":false,"page_refresh_confirmation_buttons":false,"website_name":"rlatour.com","website_privacy_policy_url":"https://rlatour.com/privacy.html"});
-  });
-  </script> <noscript>Cookie Consent by <a href="https://www.freeprivacypolicy.com/" rel="nofollow noopener">Free Privacy Policy Generator website</a></noscript> <!-- End Cookie Consent -->
-</body>
-</html>
+Ein Lineal Für Windows zu unterstützen oder einfach nur Danke zu sagen, können sie mir gerne einen kaffee spendieren.<br><br>
+[<img alt="Kauf mir einen kaffee" width="200px" src="buymeacoffee-german.png" />](https://www.buymeacoffee.com/roblatour)
+* * *
+Copyright © 2006 - 2024 Rob Latour
+* * *

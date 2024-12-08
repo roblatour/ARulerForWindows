@@ -10,7 +10,6 @@
 <br>
 <!-- header -->
 
-
 Uma Régua para Windows é uma régua-guia **grátis** em pixels na tela / leitor para Windows 10, 8.1, 8, 7, Vista, XP e 2000.  
   
 A régua permite que você meça objetos na tela rápida e facilmente. É ideal para a criação de websites, trabalhar com gráficos e aperfeiçoar a aparência de seus produtos digitais.
