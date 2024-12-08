@@ -22,7 +22,7 @@ By default, both the ruler and reading guide come with four 'skins' to choose fr
 
 Automatic midpoint, third and golden ratio lines can optionally be shown.  
   
-The program also has a feature to launch Microsoft's Magnify tool, allowing you to see a magnified image at the ruler's edges to more easily measure between very fine points. <br><br>
+The program also has a feature to launch Microsoft's Magnify tool, allowing you to see a magnified image at the ruler's edges to more easily measure between very fine points.
 
 You're welcome to use A Ruler for Windows for free on as many computers as you like!
 
