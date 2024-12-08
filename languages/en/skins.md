@@ -8,9 +8,11 @@
 
 <!-- header -->
 
-Here are some free extra skins which you're welcome to add to your collection.   
-  
-With A Ruler for Windows installed on your PC, just double click on any of the skins below, choose to 'open' the file that is being downloaded and the skin will be automatically added to your collection. 
+Beloar are some free extra skins which you're welcome to add to your collection.
+
+If you like one, just click on its image below. Next, in the webpage which opens click on the Download Raw icon (which you will see in the top left of the Github page) to download the skin definition (.ar4w) file.  Once done, and with A Ruler for Windows installed on your PC, just double click on the download file and the skin will be automatically added to your collection. 
+
+You can do this for as many of the skins below that you like.
 
 Aqua
  
