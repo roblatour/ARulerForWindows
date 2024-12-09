@@ -1,0 +1,756 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="12.0">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{C8B70AE9-D5FC-4B0A-83E0-33B2DC4C7F0C}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>aruler.My.MyApplication</StartupObject>
+    <RootNamespace>aruler</RootNamespace>
+    <AssemblyName>aruler</AssemblyName>
+    <MyType>WindowsForms</MyType>
+    <IsWebBootstrapper>true</IsWebBootstrapper>
+    <ApplicationIcon>arulerhighres.ico</ApplicationIcon>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <OldToolsVersion>3.5</OldToolsVersion>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <ApplicationManifest>My Project\app.manifest</ApplicationManifest>
+    <TargetFrameworkProfile />
+    <PublishUrl>http://localhost/aruler/</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Web</InstallFrom>
+    <UpdateEnabled>true</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.1.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>
+    </DocumentationFile>
+    <NoWarn>41999,42016,42017,42018,42019,42020,42021,42022,42032,42036,42353,42354,42355</NoWarn>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>
+    </DocumentationFile>
+    <NoWarn>41999,42016,42017,42018,42019,42020,42021,42022,42032,42036,42353,42354,42355</NoWarn>
+    <PlatformTarget>x86</PlatformTarget>
+    <CodeAnalysisRuleSet>BasicCorrectnessRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignAssembly>true</SignAssembly>
+  </PropertyGroup>
+  <PropertyGroup>
+    <AssemblyOriginatorKeyFile>ARulerForWindows.snk</AssemblyOriginatorKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>true</SignManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>5F1CF7BA14FCB1B081477405DA6302930DD57A24</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestTimestampUrl>http://timestamp.comodoca.com/?td=sha256</ManifestTimestampUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="aruler.LanguageFile, Version=0.0.0.0, Culture=en-US, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>.\aruler.LanguageFile.dll</HintPath>
+    </Reference>
+    <Reference Include="aruler.LanguageFile.ar">
+      <HintPath>.\aruler.LanguageFile.ar.dll</HintPath>
+    </Reference>
+    <Reference Include="aruler.LanguageFile.de">
+      <HintPath>.\aruler.LanguageFile.de.dll</HintPath>
+    </Reference>
+    <Reference Include="aruler.LanguageFile.nl-NL">
+      <HintPath>.\aruler.LanguageFile.nl-NL.dll</HintPath>
+    </Reference>
+    <Reference Include="aruler.LanguageFile.sv-SE">
+      <HintPath>.\aruler.LanguageFile.sv-SE.dll</HintPath>
+    </Reference>
+    <Reference Include="aruler.LanguageFile.en-GB">
+      <HintPath>.\aruler.LanguageFile.en-GB.dll</HintPath>
+    </Reference>
+    <Reference Include="aruler.LanguageFile.es">
+      <HintPath>.\aruler.LanguageFile.es.dll</HintPath>
+    </Reference>
+    <Reference Include="aruler.LanguageFile.fr">
+      <HintPath>.\aruler.LanguageFile.fr.dll</HintPath>
+    </Reference>
+    <Reference Include="aruler.LanguageFile.it">
+      <HintPath>.\aruler.LanguageFile.it.dll</HintPath>
+    </Reference>
+    <Reference Include="aruler.LanguageFile.pl">
+      <HintPath>.\aruler.LanguageFile.pl.dll</HintPath>
+    </Reference>
+    <Reference Include="aruler.LanguageFile.pt">
+      <HintPath>.\aruler.LanguageFile.pt.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.XML" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="FrmNewName.Designer.vb">
+      <DependentUpon>FrmNewName.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmNewName.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPickAColour.Designer.vb">
+      <DependentUpon>frmPickAColour.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmPickAColour.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="modKeySend.vb" />
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="ObfuscationSettings.vb" />
+    <Compile Include="ObjectXMLSerializer.vb" />
+    <Compile Include="frmAbout.Designer.vb">
+      <DependentUpon>frmAbout.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmAbout.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmGhostSkin.Designer.vb">
+      <DependentUpon>frmGhostSkin.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmGhostSkin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSkins.Designer.vb">
+      <DependentUpon>frmSkins.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmSkins.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmConfirmExit.Designer.vb">
+      <DependentUpon>frmConfirmExit.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmConfirmExit.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmGhostAbout.Designer.vb">
+      <DependentUpon>frmGhostAbout.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmGhostAbout.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMagnify.Designer.vb">
+      <DependentUpon>frmMagnify.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmMagnify.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmResize.Designer.vb">
+      <DependentUpon>frmResize.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmResize.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmRuler.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmRuler.Designer.vb">
+      <DependentUpon>frmRuler.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmWhiteBackGround.designer.vb">
+      <DependentUpon>frmWhiteBackGround.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmWhiteBackGround.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="modCommon.vb" />
+    <Compile Include="modScreenShot.vb" />
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="RulerClass.vb" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="frmAbout.ar.resx">
+      <DependentUpon>frmAbout.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAbout.de.resx">
+      <DependentUpon>frmAbout.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAbout.sv-SE.resx">
+      <DependentUpon>frmAbout.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAbout.en-GB.resx">
+      <DependentUpon>frmAbout.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAbout.es.resx">
+      <DependentUpon>frmAbout.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAbout.fr.resx">
+      <DependentUpon>frmAbout.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAbout.it.resx">
+      <DependentUpon>frmAbout.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAbout.nl-NL.resx">
+      <DependentUpon>frmAbout.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAbout.pl.resx">
+      <DependentUpon>frmAbout.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAbout.pt.resx">
+      <DependentUpon>frmAbout.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAbout.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmAbout.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmGhostSkin.ar.resx">
+      <DependentUpon>frmGhostSkin.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmGhostSkin.de.resx">
+      <DependentUpon>frmGhostSkin.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmGhostSkin.sv-SE.resx">
+      <DependentUpon>frmGhostSkin.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmGhostSkin.en-GB.resx">
+      <DependentUpon>frmGhostSkin.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmGhostSkin.es.resx">
+      <DependentUpon>frmGhostSkin.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmGhostSkin.fr.resx">
+      <DependentUpon>frmGhostSkin.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmGhostSkin.it.resx">
+      <DependentUpon>frmGhostSkin.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmGhostSkin.nl-NL.resx">
+      <DependentUpon>frmGhostSkin.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmGhostSkin.pl.resx">
+      <DependentUpon>frmGhostSkin.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmGhostSkin.pt.resx">
+      <DependentUpon>frmGhostSkin.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmGhostSkin.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmGhostSkin.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmNewName.ar.resx">
+      <DependentUpon>frmNewName.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmNewName.de.resx">
+      <DependentUpon>frmNewName.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmNewName.sv-SE.resx">
+      <DependentUpon>frmNewName.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmNewName.en-GB.resx">
+      <DependentUpon>frmNewName.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmNewName.es.resx">
+      <DependentUpon>frmNewName.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmNewName.fr.resx">
+      <DependentUpon>frmNewName.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmNewName.it.resx">
+      <DependentUpon>frmNewName.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmNewName.nl-NL.resx">
+      <DependentUpon>frmNewName.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmNewName.pl.resx">
+      <DependentUpon>frmNewName.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmNewName.pt.resx">
+      <DependentUpon>frmNewName.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmNewName.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmNewName.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPickAColour.ar.resx">
+      <DependentUpon>frmPickAColour.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPickAColour.de.resx">
+      <DependentUpon>frmPickAColour.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPickAColour.sv-SE.resx">
+      <DependentUpon>frmPickAColour.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPickAColour.en-GB.resx">
+      <DependentUpon>frmPickAColour.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPickAColour.es.resx">
+      <DependentUpon>frmPickAColour.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPickAColour.fr.resx">
+      <DependentUpon>frmPickAColour.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPickAColour.it.resx">
+      <DependentUpon>frmPickAColour.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPickAColour.nl-NL.resx">
+      <DependentUpon>frmPickAColour.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPickAColour.pl.resx">
+      <DependentUpon>frmPickAColour.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPickAColour.pt.resx">
+      <DependentUpon>frmPickAColour.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPickAColour.resx">
+      <DependentUpon>frmPickAColour.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSkins.ar.resx">
+      <DependentUpon>frmSkins.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSkins.de.resx">
+      <DependentUpon>frmSkins.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSkins.sv-SE.resx">
+      <DependentUpon>frmSkins.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSkins.en-GB.resx">
+      <DependentUpon>frmSkins.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSkins.es.resx">
+      <DependentUpon>frmSkins.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSkins.fr.resx">
+      <DependentUpon>frmSkins.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSkins.it.resx">
+      <DependentUpon>frmSkins.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSkins.nl-NL.resx">
+      <DependentUpon>frmSkins.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSkins.pl.resx">
+      <DependentUpon>frmSkins.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSkins.pt.resx">
+      <DependentUpon>frmSkins.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSkins.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmSkins.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmConfirmExit.ar.resx">
+      <DependentUpon>frmConfirmExit.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmConfirmExit.de.resx">
+      <DependentUpon>frmConfirmExit.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmConfirmExit.sv-SE.resx">
+      <DependentUpon>frmConfirmExit.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmConfirmExit.en-GB.resx">
+      <DependentUpon>frmConfirmExit.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmConfirmExit.es.resx">
+      <DependentUpon>frmConfirmExit.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmConfirmExit.fr.resx">
+      <DependentUpon>frmConfirmExit.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmConfirmExit.it.resx">
+      <DependentUpon>frmConfirmExit.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmConfirmExit.nl-NL.resx">
+      <DependentUpon>frmConfirmExit.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmConfirmExit.pl.resx">
+      <DependentUpon>frmConfirmExit.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmConfirmExit.pt.resx">
+      <DependentUpon>frmConfirmExit.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmConfirmExit.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmConfirmExit.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmGhostAbout.ar.resx">
+      <DependentUpon>frmGhostAbout.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmGhostAbout.de.resx">
+      <DependentUpon>frmGhostAbout.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmGhostAbout.sv-SE.resx">
+      <DependentUpon>frmGhostAbout.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmGhostAbout.en-GB.resx">
+      <DependentUpon>frmGhostAbout.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmGhostAbout.es.resx">
+      <DependentUpon>frmGhostAbout.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmGhostAbout.fr.resx">
+      <DependentUpon>frmGhostAbout.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmGhostAbout.it.resx">
+      <DependentUpon>frmGhostAbout.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmGhostAbout.nl-NL.resx">
+      <DependentUpon>frmGhostAbout.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmGhostAbout.pl.resx">
+      <DependentUpon>frmGhostAbout.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmGhostAbout.pt.resx">
+      <DependentUpon>frmGhostAbout.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmGhostAbout.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmGhostAbout.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMagnify.ar.resx">
+      <DependentUpon>frmMagnify.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMagnify.de.resx">
+      <DependentUpon>frmMagnify.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMagnify.sv-SE.resx">
+      <DependentUpon>frmMagnify.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMagnify.en-GB.resx">
+      <DependentUpon>frmMagnify.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMagnify.es.resx">
+      <DependentUpon>frmMagnify.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMagnify.fr.resx">
+      <DependentUpon>frmMagnify.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMagnify.it.resx">
+      <DependentUpon>frmMagnify.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMagnify.nl-NL.resx">
+      <DependentUpon>frmMagnify.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMagnify.pl.resx">
+      <DependentUpon>frmMagnify.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMagnify.pt.resx">
+      <DependentUpon>frmMagnify.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMagnify.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmMagnify.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmResize.ar.resx">
+      <DependentUpon>frmResize.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmResize.de.resx">
+      <DependentUpon>frmResize.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmResize.sv-SE.resx">
+      <DependentUpon>frmResize.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmResize.en-GB.resx">
+      <DependentUpon>frmResize.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmResize.es.resx">
+      <DependentUpon>frmResize.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmResize.fr.resx">
+      <DependentUpon>frmResize.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmResize.it.resx">
+      <DependentUpon>frmResize.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmResize.nl-NL.resx">
+      <DependentUpon>frmResize.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmResize.pl.resx">
+      <DependentUpon>frmResize.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmResize.pt.resx">
+      <DependentUpon>frmResize.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmResize.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmResize.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmRuler.ar.resx">
+      <DependentUpon>frmRuler.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmRuler.de.resx">
+      <DependentUpon>frmRuler.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmRuler.sv-SE.resx">
+      <DependentUpon>frmRuler.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmRuler.en-GB.resx">
+      <DependentUpon>frmRuler.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmRuler.es.resx">
+      <DependentUpon>frmRuler.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmRuler.fr.resx">
+      <DependentUpon>frmRuler.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmRuler.it.resx">
+      <DependentUpon>frmRuler.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmRuler.nl-NL.resx">
+      <DependentUpon>frmRuler.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmRuler.pl.resx">
+      <DependentUpon>frmRuler.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmRuler.pt.resx">
+      <DependentUpon>frmRuler.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmRuler.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmRuler.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmWhiteBackGround.ar.resx">
+      <DependentUpon>frmWhiteBackGround.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmWhiteBackGround.de.resx">
+      <DependentUpon>frmWhiteBackGround.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmWhiteBackGround.sv-SE.resx">
+      <DependentUpon>frmWhiteBackGround.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmWhiteBackGround.en-GB.resx">
+      <DependentUpon>frmWhiteBackGround.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmWhiteBackGround.es.resx">
+      <DependentUpon>frmWhiteBackGround.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmWhiteBackGround.fr.resx">
+      <DependentUpon>frmWhiteBackGround.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmWhiteBackGround.it.resx">
+      <DependentUpon>frmWhiteBackGround.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmWhiteBackGround.nl-NL.resx">
+      <DependentUpon>frmWhiteBackGround.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmWhiteBackGround.pl.resx">
+      <DependentUpon>frmWhiteBackGround.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmWhiteBackGround.pt.resx">
+      <DependentUpon>frmWhiteBackGround.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmWhiteBackGround.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmWhiteBackGround.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Resources\LanguageFile.ar.resources" />
+    <EmbeddedResource Include="Resources\LanguageFile.de.resources" />
+    <EmbeddedResource Include="Resources\LanguageFile.nl-NL.resources" />
+    <EmbeddedResource Include="Resources\LanguageFile.sv-SE.resources" />
+    <EmbeddedResource Include="Resources\LanguageFile.en-GB.resources" />
+    <EmbeddedResource Include="Resources\LanguageFile.es.resources" />
+    <EmbeddedResource Include="Resources\LanguageFile.fr.resources" />
+    <EmbeddedResource Include="Resources\LanguageFile.it.resources" />
+    <EmbeddedResource Include="Resources\LanguageFile.pl.resources" />
+    <EmbeddedResource Include="Resources\LanguageFile.pt.resources" />
+    <EmbeddedResource Include="Resources\LanguageFile.resources" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ARulerForWindows.snk" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\wood.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\opaque.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="License.rtf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="aruler.ico" />
+    <Content Include="Resources\aruler.LanguageFile.ar.dll" />
+    <Content Include="Resources\aruler.LanguageFile.de.dll" />
+    <Content Include="Resources\aruler.LanguageFile.nl-NL.dll" />
+    <Content Include="Resources\aruler.LanguageFile.sv-SE.dll" />
+    <Content Include="Resources\aruler.LanguageFile.en-GB.dll" />
+    <Content Include="Resources\aruler.LanguageFile.es.dll" />
+    <Content Include="Resources\aruler.LanguageFile.fr.dll" />
+    <Content Include="Resources\aruler.LanguageFile.it.dll" />
+    <Content Include="Resources\aruler.LanguageFile.pl.dll" />
+    <Content Include="Resources\aruler.LanguageFile.pt.dll" />
+    <None Include="Resources\Flag_Arabic_Small.png" />
+    <Content Include="Resources\Flag_Netherlands_Small.jpg" />
+    <Content Include="Resources\Flag_Sweden_Small.png" />
+    <None Include="Resources\Flag_US_Small.png" />
+    <None Include="Resources\Flag_UK_Small.png" />
+    <None Include="Resources\Flag_Spain_Small.png" />
+    <None Include="Resources\Flag_Portugal_Small.png" />
+    <None Include="Resources\Flag_Poland_Small.png" />
+    <None Include="Resources\Flag_Italy_Small.png" />
+    <None Include="Resources\Flag_Germany_Small.png" />
+    <None Include="Resources\Flag_France_Small.png" />
+    <None Include="Resources\License.png" />
+    <Content Include="arulerhighres.ico" />
+    <None Include="Resources\sam.bmp" />
+    <None Include="Resources\Image1.bmp" />
+    <None Include="Resources\transparent.bmp" />
+    <None Include="Resources\white.bmp" />
+    <None Include="My Project\app.manifest">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Resources\steel.jpg" />
+    <None Include="Resources\yellow.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.2.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 2.0 %28x86%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
