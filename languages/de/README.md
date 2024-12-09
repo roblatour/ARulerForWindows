@@ -13,11 +13,11 @@ Ein Lineal für Windows ist ein **kostenloser** Pixelmaßstab und eine Lesehilfe
   
 Das Lineal erlaubt Ihnen, schnell und einfach Objekte auf Ihrem Bildschirm zu messen. Es ist ideal für Webseiten, zum Arbeiten mit Grafiken und zum Perfektionieren des Looks Ihrer digitalen Produkte.
  <br><br>
-![ruler](/images/ruler.png)
+[![ruler](/images/ruler.png)](README.md)
 <br><br>
 Die Lesehilfe hilft Ihnen, Text auf Ihrem Bildschirm zu lesen, wie ein Lineal dabei hilft, Zeilen eines Texts auf gedrucktem Papier zu lesen. Das macht aus Ein Lineal für Windows ein ideales Werkzeug zum Arbeiten mit langen E-Mails, komplizierten Tabellen und kleingedruckten Dokumenten auf Ihrem Bildschirm.
 <br><br>
-![Leseanleitung](/images/readingguide.png)  
+[![Leseanleitung](/images/readingguide.png)](README.md)  
 <br>
 Das Programm wechselt per Tastendruck zwischen Lineal- und Leseführungsmodus.  
   

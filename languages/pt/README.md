@@ -14,13 +14,13 @@ Uma Régua para Windows é uma régua-guia **grátis** em pixels na tela / leito
   
 A régua permite que você meça objetos na tela rápida e facilmente. É ideal para a criação de websites, trabalhar com gráficos e aperfeiçoar a aparência de seus produtos digitais.
 <br><br>
-![ruler](/images/ruler.png)
+[![ruler](/images/ruler.png)](README.md)
 <br>
 
 O guia de leitura ajuda a ler o texto em ecrã bem como a régua de borda ajuda a ler através de linhas de texto em uma página impressa. Isso faz com que Uma Régua para Windows seja uma ferramenta ideal para trabalhar com e-mails longos, planilhas extensas e  documentos em sua tela.
 <br>
 <br>
-![guia de leitura](/images/readingguide.png)  
+[![guia de leitura](/images/readingguide.png)](README.md)  
 <br> 
 O programa alterna entre os modos de régua e guia de leitura com o pressionar de uma tecla.  
   

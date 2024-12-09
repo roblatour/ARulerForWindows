@@ -11,11 +11,13 @@
 
 Una regla para Windows es una regla de píxeles por la pantalla de su ordenador y también una guía de lectura para Windows **gratis**.  
   
-La regla le permite medir objetos en la pantalla rápidamente y fácilmente. Es ideal para el diseño de sitios Web, el trabajo con gráficos y para perfeccionar el aspecto de sus productos digitales.<br><br>
-![ruler](/images/ruler.png)<br><br>
+La regla le permite medir objetos en la pantalla rápidamente y fácilmente. Es ideal para el diseño de sitios Web, el trabajo con gráficos y para perfeccionar el aspecto de sus productos digitales.
+<br><br>
+[![regla](/images/ruler.png)](README.md)
+<br><br>
 La guía de lectura le ayuda a leer su texto en la pantalla igualmente como una regla normal le ayuda leer las líneas de texto en una página de texto imprimado en papel. Esto hace que la regla para Windows es una herramienta ideal para trabajar con correos electrónicos largos, hojas de cálculo y documentos de letra pequeña, directamente en su pantalla.<br>
 
-![Guía de lectura](/images/readingguide.png)  
+[![Guía de lectura](/images/readingguide.png)](README.md) 
   
 El programa cambia entre los modos de regla y guía de lectura con solo presionar una tecla.  
   

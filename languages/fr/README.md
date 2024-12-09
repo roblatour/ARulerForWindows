@@ -12,12 +12,13 @@
 
 Une Règle pour Windows est une règle des pixels/un guide de lecture disponible **gratuitement** sur votre écran pour Windows.  
   
-La règle vous permet de mesurer rapidement et facilement des objets sur votre écran. Elle est idéale pour concevoir des sites internet, travailler avec des graphiques et parfaire l’apparence de vos produits digitaux.<br><br>
-![ruler](/images/ruler.png)
+La règle vous permet de mesurer rapidement et facilement des objets sur votre écran. Elle est idéale pour concevoir des sites internet, travailler avec des graphiques et parfaire l’apparence de vos produits digitaux.
+<br><br>
+[![righello](/images/ruler.png)](README.md)
 <br><br>
 Le guide de lecture vous guide sur votre écran tout au long d’un texte, de la même façon que le bord d’une règle vous aide à suivre les lignes d’un texte imprimé. Ceci fait d’une Règle pour Windows un outil idéal pour travailler avec de longs emails, de larges feuilles de calcul ou des documents avec une petite police sur votre écran.
 <br><br>
-![Guide de lecture](/images/readingguide.png)  
+[![guida alla lettura](/images/readingguide.png)](README.md)
   
 Le programme passe du mode règle au mode guide de lecture en appuyant sur un bouton .  
   
