@@ -12,7 +12,7 @@
 Een 'Meetlat voor Windows' is een **gratis** schermpixel meetlat / leesregel op het scherm voor Windows. Een pixel is één lichtpuntje van een scherm. De verhouding tussen een voorwerp in px.  t.o.v. de schermgrootte in px. blijft gelijk. De grootte van het scherm in cm maakt niets uit.  
   
 Met de meetlat kunt u snel en gemakkelijk objecten op uw scherm meten. Het is ideaal voor het ontwerpen van websites, het werken met afbeeldingen en het perfectioneren van het uiterlijk van uw digitale producten. Met klikken in de lege ruimte kan de lat versleept worden over het scherm.<br><br>
-[![ruler](/images/ruler.png)](screenshot.png)
+![ruler](/images/ruler.png)
 <br>
 
 U kunt schakelen tussen de modi meetlat en leesregel met een druk op de \[S\]-toets als de lat of de regel geselecteerd is.  

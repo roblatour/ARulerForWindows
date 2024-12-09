@@ -13,7 +13,7 @@ Linijka dla Windows to **bezpłatna** pikselowa ekranowa linijka oraz pomocnik c
   
 Linijka pozwala na szybkie i łatwe mierzenie obiektów na ekranie. Idealnie nadaje się przy projektowaniu stron internetowych, pracy graficznej lub doskonaleniu wyglądu produktów cyfrowych.
 <br><br>
-[![ruler](/images/ruler.png)](screenshot.png)
+![ruler](/images/ruler.png)
 <br><br>
 Pomocnik czytania pomaga w czytaniu tekstu na ekranie, podobnie jak to czyni brzeg tradycyjnej linijki na wydrukowanej stronie. Czyni to Linijka dla Windows idealnym narzędziem do czytania długich e-maili, szerokich arkuszy i drobnej czcionki na ekranie.
 <br><br>

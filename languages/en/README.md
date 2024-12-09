@@ -12,7 +12,7 @@
 A Ruler for Windows is a free pixel ruler and reading guide for Windows.  
   
 The ruler lets you quickly and easily measure objects on your screen. It's ideal for designing web sites, working with graphics and perfecting the look of your digital products.<br><br>
-[![ruler](/images/ruler.png)](screenshot.png)<br><br>
+![ruler](/images/ruler.png)<br><br>
 The reading guide helps you read through text on your screen much like a ruler edge helps you read through lines of text on a printed page. This makes A Ruler for Windows an ideal tool for working with long e-mails, wide spreadsheets and fine print documents on your screen.<br><br>
 ![Reading Guide](/images/readingguide.png)
 

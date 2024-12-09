@@ -14,7 +14,7 @@ En Linjal för Windows är en **gratis** pixelbaserad skärmlinjal / läshjälp 
   
 Linjalen låter dig mäta objekt på skärmen snabbt och enkelt. Perfekt för utveckling av webbsidor, grafikredigering och när du fulländar dina digitala produkter.
 <br><br>   
-[![ruler](/images/ruler.png)](screenshot.png)
+![ruler](/images/ruler.png)
 <br><br>
 Läshjälpen hjälper dig att läsa text på din skärm precis som en linjalkant hjälper dig läsa igenom textader på ett utskrivet dokument. Detta gör En Linjal för Windows det perfekta verktyget när du arbetar med långa e-postmeddelanden, breda kalkylblad och småstilta tryck på skärmen.
 <br><br>

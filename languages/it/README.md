@@ -13,7 +13,7 @@ Un Righello per Windows è un righello **libero** in pixel sullo schermo/ guida 
   
 Il righello consente di misurare rapidamente e facilmente gli oggetti sullo schermo. E' ideale per la progettazione di siti web, per lavorare con la grafica e per  perfezionare il look dei tuoi prodotti digitali.
 <br><br>
-[![ruler](/images/ruler.png)](screenshot.png)
+![ruler](/images/ruler.png)
 <br><br>
 La guida alla lettura consente di leggere il testo sullo schermo in modo molto simile a come il  bordo di un  righello ti aiuta a scorrere le linee di testo su una pagina stampata. Questo rende un righello per Windows uno strumento ideale per lavorare con lunghe e-mail,  larghi fogli di calcolo e documenti in piccoli caratteri sul tuo schermo.
 <br><br>
