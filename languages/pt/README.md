@@ -1,5 +1,5 @@
 
-# Uma Régua para Windows (Versão 4.0 - 2024-12-12)
+# Uma Régua para Windows (Versão 4.0 - 2024-12-10)
 
 <!-- header -->
 |||||||||||

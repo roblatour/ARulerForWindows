@@ -1,4 +1,4 @@
-# Una Regla Para Windows (versión 4.0 - 2024-12-12)
+# Una Regla Para Windows (versión 4.0 - 2024-12-10)
 <!-- header -->
 
 |||||||||||

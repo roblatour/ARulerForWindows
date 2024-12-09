@@ -1,4 +1,4 @@
-# Ein Lineal Für Windows (Version 4.0 - 2024-12-12)
+# Ein Lineal Für Windows (Version 4.0 - 2024-12-10)
 <!-- header -->
 
 |||||||||||

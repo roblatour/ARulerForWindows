@@ -1,4 +1,4 @@
-# Een Meetlat voor Windows (versie 4.0 - 2024-12-12)
+# Een Meetlat voor Windows (versie 4.0 - 2024-12-10)
 
 <!-- header -->
 |||||||||||

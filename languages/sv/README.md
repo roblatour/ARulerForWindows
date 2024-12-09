@@ -1,4 +1,4 @@
-# En Linjal För Windows (version 4.0 - 2024-12-12)
+# En Linjal För Windows (version 4.0 - 2024-12-10)
 
 <!-- header -->
 |||||||||||

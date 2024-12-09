@@ -1,5 +1,5 @@
 
-# Une Règle Pour Windows (version 4.0 - 2024-12-12)
+# Une Règle Pour Windows (version 4.0 - 2024-12-10)
 
 <!-- header -->
 |||||||||||

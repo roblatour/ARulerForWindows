@@ -1,4 +1,4 @@
-# Un Righello per Windows (versione 4.0 - 2024-12-12)
+# Un Righello per Windows (versione 4.0 - 2024-12-10)
 <!-- header -->
 
 |||||||||||

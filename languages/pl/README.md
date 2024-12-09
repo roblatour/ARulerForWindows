@@ -1,4 +1,4 @@
-# Linijka Dla Windows (Wersja 4.0 - 2024-12-14)
+# Linijka Dla Windows (Wersja 4.0 - 2024-12-10)
 
 <!-- header -->
 |||||||||||
