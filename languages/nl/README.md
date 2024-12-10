@@ -36,7 +36,7 @@ Automatisch \[M\] middelpunt, \[T\] derde- en \[G\]gulden snede kunnen optioneel
   
 U bent welkom om 'Een Meetlat voor Windows' gratis te gebruiken op zoveel computers als u wilt!  
 
-## [Klik hier om te downloaden Een Meetlat voor Windows](https://6ec1f0a2f74d4d0c2019-591364a760543a57f40bab2c37672676.ssl.cf5.rackcdn.com/arulersetupv40.exe)<br><br>
+## [Klik hier om te downloaden Een Meetlat voor Windows](https://github.com/roblatour/ARulerForWindows/releases/download/v4.0.0.0/arulersetup.exe)<br><br>
 
 ### [Klik hier voor meer gratis liniaalskins](skins.md) 
 

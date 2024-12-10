@@ -37,7 +37,7 @@ Program ma również funkcję uruchamiania narzędzia Microsoft Magnify, pozwala
 
 Nie ma jakichkolwiek ograniczeń co do ilości komputerów na których jest używany Linijka dla Windows.
 
-## [Kliknij tutaj, aby pobrać Linijka Dla Windows](https://6ec1f0a2f74d4d0c2019-591364a760543a57f40bab2c37672676.ssl.cf5.rackcdn.com/arulersetupv40.exe)<br><br>
+## [Kliknij tutaj, aby pobrać Linijka Dla Windows](https://github.com/roblatour/ARulerForWindows/releases/download/v4.0.0.0/arulersetup.exe)<br><br>
 
 ### [Kliknij tutaj, aby uzyskać więcej darmowych skórek linijek](skins.md) 
 

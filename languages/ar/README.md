@@ -29,7 +29,7 @@
 نرحب باستخدام حاكم لنظام التشغيل Windows مجانًا على أي عدد تريده من أجهزة الكمبيوتر!
 
 
-## [انقر هنا للتحميل](https://6ec1f0a2f74d4d0c2019-591364a760543a57f40bab2c37672676.ssl.cf5.rackcdn.com/arulersetupv40.exe)<br><br>
+## [انقر هنا للتحميل](https://github.com/roblatour/ARulerForWindows/releases/download/v4.0.0.0/arulersetup.exe)<br><br>
 
 ### [انقر هنا للحصول على المزيد من جلود المسطرة المجانية](skins.md) 
 

@@ -28,7 +28,7 @@ The program also has a feature to launch Microsoft's Magnify tool, allowing you 
 
 You're welcome to use A Ruler for Windows for free on as many computers as you like!
 
-## [Click here to download A Ruler for Windows](https://6ec1f0a2f74d4d0c2019-591364a760543a57f40bab2c37672676.ssl.cf5.rackcdn.com/arulersetupv40.exe)<br><br>
+## [Click here to download A Ruler for Windows](https://github.com/roblatour/ARulerForWindows/releases/download/v4.0.0.0/arulersetup.exe)<br><br>
 
 ### [Click here for more free ruler skins](skins.md) 
 

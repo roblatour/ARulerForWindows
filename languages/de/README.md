@@ -40,7 +40,7 @@ Das Programm verfügt auch über eine Funktion zum Starten des Magnify-Tools von
 
 Sie können Ein Lineal für Windows gern kostenlos auf so vielen Computern verwenden, wie Sie möchten. 
 
-## [Klicken Sie hier, Ein Lineal Für Windows herunterzuladen](https://6ec1f0a2f74d4d0c2019-591364a760543a57f40bab2c37672676.ssl.cf5.rackcdn.com/arulersetupv40.exe)<br><br>
+## [Klicken Sie hier, Ein Lineal Für Windows herunterzuladen](https://github.com/roblatour/ARulerForWindows/releases/download/v4.0.0.0/arulersetup.exe)<br><br>
 
 ### [Klicken Sie hier für weitere kostenlose Lineal-Skins](skins.md) 
 

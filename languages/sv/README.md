@@ -38,7 +38,7 @@ Programmet har även en funktion för att starta Microsofts förstoringsverktyg,
   
 Du är varmt välkommen att använda En Linjal för Windows gratis på så många datorer du vill.
 
-## [Stöd En Linjal För Windows](https://6ec1f0a2f74d4d0c2019-591364a760543a57f40bab2c37672676.ssl.cf5.rackcdn.com/arulersetupv40.exe)<br><br>
+## [Stöd En Linjal För Windows](https://github.com/roblatour/ARulerForWindows/releases/download/v4.0.0.0/arulersetup.exe)<br><br>
 
 ### [Klicka här för fler gratis linjalskinn](skins.md) 
 

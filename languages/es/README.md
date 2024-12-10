@@ -37,7 +37,7 @@ El programa también tiene una función para iniciar la herramienta Ampliar de M
    
 Le invitamos a utilizar la regla para Windows de forma gratuita en tantos equipos como desee.
 
-## [Haga clic aquí para descargar Una Regla para Windows](https://6ec1f0a2f74d4d0c2019-591364a760543a57f40bab2c37672676.ssl.cf5.rackcdn.com/arulersetupv40.exe)<br><br>
+## [Haga clic aquí para descargar Una Regla para Windows](https://github.com/roblatour/ARulerForWindows/releases/download/v4.0.0.0/arulersetup.exe)<br><br>
 
 ### [Haga clic aquí para obtener más diseños de reglas gratuitos](skins.md) 
 

@@ -36,7 +36,7 @@ Le programme dispose également d'une fonctionnalité pour lancer l'outil Magnif
   
 Vous pouvez bien sur utiliser Une Règle Pour Windows gratuitement sur autant d’ordinateurs que vous voulez.  
 
-## [Cliquez ici pour télécharger Une Règle Pour Windows](https://6ec1f0a2f74d4d0c2019-591364a760543a57f40bab2c37672676.ssl.cf5.rackcdn.com/arulersetupv40.exe)<br><br>
+## [Cliquez ici pour télécharger Une Règle Pour Windows](https://github.com/roblatour/ARulerForWindows/releases/download/v4.0.0.0/arulersetup.exe)<br><br>
 
 ### [Cliquez ici pour plus de skins de règles gratuites](skins.md) 
 

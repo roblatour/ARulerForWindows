@@ -38,7 +38,7 @@ Il programma ha anche una funzione per avviare lo strumento Ingrandisci di Micro
 Sei invitato a utilizzare Un Righello per Windows gratuitamente su tutti i computer che desideri.
 
 
-## [Clicca qui per scaricare Un Righello per Windows](https://6ec1f0a2f74d4d0c2019-591364a760543a57f40bab2c37672676.ssl.cf5.rackcdn.com/arulersetupv40.exe)<br><br>
+## [Clicca qui per scaricare Un Righello per Windows](https://github.com/roblatour/ARulerForWindows/releases/download/v4.0.0.0/arulersetup.exe)<br><br>
 
 ### [Clicca qui per altre skin gratuite per righelli](skins.md) 
 

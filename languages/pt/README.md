@@ -40,7 +40,7 @@ O programa também possui um recurso para lançar a ferramenta Magnify da Micros
   
 Você é convidado a usar Uma Régua para Windows de graça em quantos computadores quiser.
 
-## [Clique aqui para descarregar Uma Régua para Windows](https://6ec1f0a2f74d4d0c2019-591364a760543a57f40bab2c37672676.ssl.cf5.rackcdn.com/arulersetupv40.exe)<br><br>
+## [Clique aqui para descarregar Uma Régua para Windows](https://github.com/roblatour/ARulerForWindows/releases/download/v4.0.0.0/arulersetup.exe)<br><br>
 
 ### [Clique aqui para mais skins de régua gratuitass](skins.md) 
 
