@@ -48,7 +48,7 @@ Sie können Ein Lineal für Windows gern kostenlos auf so vielen Computern verwe
 ## Unterstützt Ein Lineal Für Windows 
 
 Ein Lineal Für Windows zu unterstützen oder einfach nur Danke zu sagen, können sie mir gerne einen kaffee spendieren.<br><br>
-[<img alt="Kauf mir einen kaffee" width="200px" src="buymeacoffee-german.png" />](https://www.buymeacoffee.com/roblatour)
+[<img alt="Kauf mir einen kaffee" width="200px" src="buymeacoffee-german.png" />](https://www.buymeacoffee.com/roblatour?l=de)
 * * *
 Copyright © 2006 - 2024 Rob Latour
 * * *

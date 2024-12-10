@@ -257,34 +257,34 @@ Public Class frmAbout
         Dim WebPage As String = String.Empty
 
         If My.Settings.Language.StartsWith("ar") Then
-            WebPage = "https://buymeacoffee.com/roblatour"
+            WebPage = "https://buymeacoffee.com/roblatour?l=en" ' buymeacoffee does not currently support ar, use en instead
 
         ElseIf My.Settings.Language.StartsWith("de") Then
-            WebPage = "https://buymeacoffee.com/roblatour"
+            WebPage = "https://buymeacoffee.com/roblatour?l=de"
 
         ElseIf My.Settings.Language.StartsWith("fr") Then
-            WebPage = "https://buymeacoffee.com/roblatour"
+            WebPage = "https://buymeacoffee.com/roblatour?l=fr"
 
         ElseIf My.Settings.Language.StartsWith("nl") Then
-            WebPage = "https://buymeacoffee.com/roblatour"
+            WebPage = "https://buymeacoffee.com/roblatour?l=en" ' buymeacoffee does not currently support nl, use en instead
 
         ElseIf My.Settings.Language.StartsWith("pt") Then
-            WebPage = "https://buymeacoffee.com/roblatour"
+            WebPage = "https://buymeacoffee.com/roblatour?l=en" ' buymeacoffee does not currently support pt, use en instead
 
         ElseIf My.Settings.Language.StartsWith("pl") Then
-            WebPage = "https://buymeacoffee.com/roblatour"
+            WebPage = "https://buymeacoffee.com/roblatour?l=en" ' buymeacoffee does not currently support pl, use en instead
 
         ElseIf My.Settings.Language.StartsWith("it") Then
-            WebPage = "https://buymeacoffee.com/roblatour"
+            WebPage = "https://buymeacoffee.com/roblatour?l=it"
 
         ElseIf My.Settings.Language.StartsWith("es") Then
-            WebPage = "https://buymeacoffee.com/roblatour"
+            WebPage = "https://buymeacoffee.com/roblatour?l=es"
 
         ElseIf My.Settings.Language.StartsWith("sv") Then
-            WebPage = "https://buymeacoffee.com/roblatour"
+            WebPage = "https://buymeacoffee.com/roblatour?l=en" ' buymeacoffee does not currently support sv, use en instead
 
         Else
-            WebPage = "https://buymeacoffee.com/roblatour"
+            WebPage = "https://buymeacoffee.com/roblatour?l=en" ' use English as the default
 
         End If
 

@@ -56,7 +56,7 @@ con grazie Raphael
 ## Supporta Un Righello per Windows
 
 Per aiutare a supportare Un Righello per Windows, o semplicemente per dire grazie, sei il benvenuto a "Offrirmi un caffè"<br><br>
-[<img alt="Offrirmi un caffè" width="200px" src="buymeacoffee-italian.png" />](https://www.buymeacoffee.com/roblatour)
+[<img alt="Offrirmi un caffè" width="200px" src="buymeacoffee-italian.png" />](https://www.buymeacoffee.com/roblatour?l=it)
 * * *
 Copyright © 2006 - 2024 Rob Latour
 * * *

@@ -44,7 +44,7 @@ Vous pouvez bien sur utiliser Une Règle Pour Windows gratuitement sur autant d�
 ## Soutenez Une Règle Pour Windows
 
 Pour soutenir Une Règle Pour Windows, ou simplement pour dire merci, n'hésitez pas à « M'offrir un café »<br><br>
-[<img alt="M'offrir un café" width="200px" src="buymeacoffee-french.png" />](https://www.buymeacoffee.com/roblatour)
+[<img alt="M'offrir un café" width="200px" src="buymeacoffee-french.png" />](https://buymeacoffee.com/roblatour?l=fr)
 * * *
 Copyright © 2006 - 2024 Rob Latour
 * * *

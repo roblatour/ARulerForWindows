@@ -45,7 +45,7 @@ Le invitamos a utilizar la regla para Windows de forma gratuita en tantos equipo
 ## Admite Una Regla para Windows
 
 Para ayudar a respaldar Una Regla para Windows, o simplemente para decir gracias, eres bienvenido a "Invitarme un café".<br><br>
-[<img alt="Invitarme un café" width="200px" src="buymeacoffee-spanish.png" />](https://www.buymeacoffee.com/roblatour)
+[<img alt="Invitarme un café" width="200px" src="buymeacoffee-spanish.png" />](https://www.buymeacoffee.com/roblatour?l=es)
 * * *
 Copyright © 2006 - 2024 Rob Latour
 * * *
