@@ -9,7 +9,7 @@
 <br>
 <!-- header -->
 
-Un Righello per Windows è un righello **libero** in pixel sullo schermo/ guida alla lettura per Windows 10, 8.1, 8, 7, Vista, XP and 2000.  
+Un Righello per Windows è un righello pixel open source gratuito e una guida alla lettura per Windows.
   
 Il righello consente di misurare rapidamente e facilmente gli oggetti sullo schermo. E' ideale per la progettazione di siti web, per lavorare con la grafica e per  perfezionare il look dei tuoi prodotti digitali.
 <br><br>

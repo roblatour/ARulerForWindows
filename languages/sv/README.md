@@ -10,7 +10,7 @@
 <!-- header -->
 
 
-En Linjal för Windows är en **gratis** pixelbaserad skärmlinjal / läshjälp för Windows 10, 8.1, 8, 7, Vista, XP och 2000.  
+En linjal för Windows är en gratis pixellinjal med öppen källkod och läsguide för Windows.
   
 Linjalen låter dig mäta objekt på skärmen snabbt och enkelt. Perfekt för utveckling av webbsidor, grafikredigering och när du fulländar dina digitala produkter.
 <br><br>   

@@ -10,7 +10,7 @@
 <br>
 <!-- header -->
 
-Une Règle pour Windows est une règle des pixels/un guide de lecture disponible **gratuitement** sur votre écran pour Windows.  
+Une Règle pour Windows est une règle de pixels open source gratuite et un guide de lecture pour Windows.  
   
 La règle vous permet de mesurer rapidement et facilement des objets sur votre écran. Elle est idéale pour concevoir des sites internet, travailler avec des graphiques et parfaire l’apparence de vos produits digitaux.
 <br><br>

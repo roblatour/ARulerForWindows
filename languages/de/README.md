@@ -9,7 +9,7 @@
 <br>
 <!-- header -->
 
-Ein Lineal für Windows ist ein **kostenloser** Pixelmaßstab und eine Lesehilfe für Windows.  
+Ein Lineal für Windows ist ein kostenloses Open-Source-Pixellineal und Leseleitfaden für Windows.  
   
 Das Lineal erlaubt Ihnen, schnell und einfach Objekte auf Ihrem Bildschirm zu messen. Es ist ideal für Webseiten, zum Arbeiten mit Grafiken und zum Perfektionieren des Looks Ihrer digitalen Produkte.
  <br><br>

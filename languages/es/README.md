@@ -9,7 +9,7 @@
 <br>
 <!-- header -->
 
-Una regla para Windows es una regla de píxeles por la pantalla de su ordenador y también una guía de lectura para Windows **gratis**.  
+Una regla para Windows es una regla de píxeles y una guía de lectura de código abierto gratuita para Windows. 
   
 La regla le permite medir objetos en la pantalla rápidamente y fácilmente. Es ideal para el diseño de sitios Web, el trabajo con gráficos y para perfeccionar el aspecto de sus productos digitales.
 <br><br>

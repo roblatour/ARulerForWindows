@@ -9,7 +9,7 @@
 <br>
 <!-- header -->
 
-A Ruler for Windows is a free pixel ruler and reading guide for Windows.  
+A Ruler for Windows is a free open source pixel ruler and reading guide for Windows.  
   
 The ruler lets you quickly and easily measure objects on your screen. It's ideal for designing web sites, working with graphics and perfecting the look of your digital products.
 <br><br>

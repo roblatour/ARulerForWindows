@@ -9,7 +9,7 @@
 <br>
 <!-- header -->
 
-Linijka dla Windows to **bezpłatna** pikselowa ekranowa linijka oraz pomocnik czytania na systemy Windows 10, 8.1, 8, 7, Vista, XP i 2000.  
+Linijka dla Windows to darmowa, otwartoźródłowa aplikacja do linijki pikselowej i podręcznika czytania dla systemu Windows.
   
 Linijka pozwala na szybkie i łatwe mierzenie obiektów na ekranie. Idealnie nadaje się przy projektowaniu stron internetowych, pracy graficznej lub doskonaleniu wyglądu produktów cyfrowych.
 <br><br>
