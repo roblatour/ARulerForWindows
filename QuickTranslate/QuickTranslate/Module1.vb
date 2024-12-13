@@ -6,31 +6,86 @@ Module Module1
 
     Const gMaxNumberOfOtherLangages As Integer = 10
 
-    Const gInputLanguagesFileName As String = "E:\Documents\VBNet\eruler\Localization Working Files\Translation.xls"
+    Private gBaseDirectory As String = String.Empty
 
-    Const gInputResourceFolder As String = "E:\Documents\VBNet\eruler\eruler\eruler"
+    Private gInputLanguagesFileName As String = String.Empty
 
-    Const gOutputResourceFolderForForms As String = "E:\Documents\VBNet\eruler\eruler\eruler\"
+    Private gInputResourceFolder As String = String.Empty
 
-    Const gOutputResourceFolderForInCodeLiterals As String = "E:\Documents\VBNet\eruler\eruler\eruler\Resources\"
+    Private gOutputResourceFolderForForms As String = String.Empty
 
-    Const gResGen_exe As String = "E:\Documents\VBNet\eruler\Localization Working Files\Misc\Resgen.exe"
+    Private gOutputResourceFolderForInCodeLiterals As String = String.Empty
 
-    Const gal_exe As String = "E:\Documents\VBNet\eruler\Localization Working Files\Misc\al"
+    Private gResGen_exe As String = String.Empty
+
+    Private gal_exe As String = String.Empty
 
     ' gFormTranslationTable:
     '       gTranslationTable(x, 0) english description of language
     '       gTranslationTable(x, 1) language code
     '       gTranslationTable(x, n) rows to be translated
-    Private gTranslationTable(gMaxNumberOfOtherLangages, 50000) As String
 
+    Private gTranslationTable(gMaxNumberOfOtherLangages, 50000) As String
 
     Sub Main()
 
+        SetDirectoryStructure()
         ProcessForms()
         ProcessInCode()
 
     End Sub
+
+    Private Sub SetDirectoryStructure()
+
+        gBaseDirectory = Environment.CurrentDirectory
+
+        ' Find Localized Working Files
+
+        Dim HuntForLocalizationWorkingFilesDirectory As String = gBaseDirectory
+
+        While Not HuntForLocalizationWorkingFilesDirectory.Contains("Localization Working Files")
+
+            If Directory.Exists(HuntForLocalizationWorkingFilesDirectory & "\Localization Working Files") Then
+                HuntForLocalizationWorkingFilesDirectory = HuntForLocalizationWorkingFilesDirectory & "\Localization Working Files"
+                Exit While
+            Else
+                Dim parentDir As DirectoryInfo = Directory.GetParent(HuntForLocalizationWorkingFilesDirectory)
+                HuntForLocalizationWorkingFilesDirectory = parentDir.ToString
+            End If
+
+        End While
+
+        gInputLanguagesFileName = HuntForLocalizationWorkingFilesDirectory & "\Translation.xls"
+
+        gResGen_exe = HuntForLocalizationWorkingFilesDirectory & "\Misc\Resgen.exe"
+
+        gal_exe = HuntForLocalizationWorkingFilesDirectory & "\Misc\al"
+
+        ' Find eruler / eruler direcotry
+
+        Dim HuntErulerSlashErulerDirectory As String = gBaseDirectory
+
+        While Not HuntErulerSlashErulerDirectory.Contains("\eruler\eruler")
+
+            If Directory.Exists(HuntErulerSlashErulerDirectory & "\eruler\eruler") Then
+                HuntErulerSlashErulerDirectory = HuntErulerSlashErulerDirectory & "\eruler\eruler"
+                Exit While
+            Else
+                Dim parentDir As DirectoryInfo = Directory.GetParent(HuntErulerSlashErulerDirectory)
+                HuntErulerSlashErulerDirectory = parentDir.ToString
+            End If
+
+        End While
+
+        gInputResourceFolder = HuntErulerSlashErulerDirectory
+
+        gOutputResourceFolderForForms = HuntErulerSlashErulerDirectory
+
+        gOutputResourceFolderForInCodeLiterals = HuntErulerSlashErulerDirectory & "\Resources\"
+
+
+    End Sub
+
 
     Private Sub ProcessForms()
 
