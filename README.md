@@ -6,6 +6,7 @@
 |[![عربي](/images/flags/ar.png)](https://www.mycompany.com) | [مسطرة لنظام ويندوز - عربي](https://www.mycompany.com)
 |[![Deutsch](/images/flags/de.png)](/languages/de/README.md) | [Ein Lineal Für Windows](/languages/de/README.md)
 |[![English](/images/flags/en-GB.png)](/languages/en/README.md) | [A Ruler for Windows](/languages/en/README.md)
+|[![English](/images/flags/en-US.png)](/languages/en/README.md) | [A Ruler for Windows](/languages/en/README.md)
 |[![Español](/images/flags/es.png)](/languages/es/README.md) | [Una Regla Para Windows](/languages/es/README.md)
 |[![Français](/images/flags/fr.png)](/languages/fr/README.md) | [Une Règle Pour Windows](/languages/fr/README.md)
 |[![Italiano](/images/flags/it.png)](/languages/it/README.md) | [Un Righello per Windows](/languages/it/README.md)
