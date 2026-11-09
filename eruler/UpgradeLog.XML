@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="aruler">
+</Property><Property Name="Solution File" Value="C:\Users\Rob Latour\Documents\VBNet\eruler\eruler\aruler.sln">
+</Property><Property Name="Date" Value="May 01 2008">
+</Property><Property Name="Time" Value="20:59 PM">
+</Property></Properties><Event ErrorLevel="0" Project="aruler" Source="eruler\aruler.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="aruler" Source="eruler\aruler.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="arulerRegGen" Source="arulerRegGen\arulerRegGen.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="arulerRegGen" Source="arulerRegGen\arulerRegGen.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="UninstallARulerForWindows" Source="UninstallARulerForWindows\UninstallARulerForWindows.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="UninstallARulerForWindows" Source="UninstallARulerForWindows\UninstallARulerForWindows.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="aruler.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="aruler.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="aruler" Source="eruler\aruler.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="arulerRegGen" Source="arulerRegGen\arulerRegGen.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="UninstallARulerForWindows" Source="UninstallARulerForWindows\UninstallARulerForWindows.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
