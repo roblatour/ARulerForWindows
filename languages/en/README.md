@@ -1,4 +1,4 @@
-# A Ruler For Windows (version 4.0.1 - 2024-11-08)
+# A Ruler For Windows (version 4.0.1 - 2026-11-08)
 
 <!-- header -->
 |||||||||||
