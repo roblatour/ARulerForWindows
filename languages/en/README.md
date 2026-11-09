@@ -1,4 +1,4 @@
-# A Ruler For Windows (version 4.0 - 2024-12-10)
+# A Ruler For Windows (version 4.0.1 - 2024-11-08)
 
 <!-- header -->
 |||||||||||
@@ -28,7 +28,7 @@ The program also has a feature to launch Microsoft's Magnify tool, allowing you 
 
 You're welcome to use A Ruler for Windows for free on as many computers as you like!
 
-## [Click here to download A Ruler for Windows](https://github.com/roblatour/ARulerForWindows/releases/download/v4.0.0.0/arulersetup.exe)<br><br>
+## [Click here to download A Ruler for Windows](https://github.com/roblatour/ARulerForWindows/releases/download/v4.0.1.0/arulersetup.exe)<br><br>
 
 ### [Click here for more free ruler skins](skins.md) 
 
@@ -38,5 +38,5 @@ You're welcome to use A Ruler for Windows for free on as many computers as you l
 To help support A Ruler for Windows, or to just say thanks, you're welcome to 'Buy me a coffee'<br><br>
 [<img alt="Buy me  a coffee" width="200px" src="buymeacoffee-english.png" />](https://www.buymeacoffee.com/roblatour)
 * * *
-Copyright © 2006 - 2024 Rob Latour
+Copyright © 2006 - 2026 Rob Latour
 * * *

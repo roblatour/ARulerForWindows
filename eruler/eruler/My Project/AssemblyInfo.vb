@@ -12,7 +12,7 @@ Imports System.Runtime.InteropServices
 <Assembly: AssemblyDescription("A Ruler for Windows, an on-screen pixel ruler and reading guide for your PC")> 
 <Assembly: AssemblyCompany("Rob Latour")> 
 <Assembly: AssemblyProduct("arulerforwindows")>
-<Assembly: AssemblyCopyright("Rob Latour Copyright © 2006 - 2023 All Rights Reserved")>
+<Assembly: AssemblyCopyright("Rob Latour Copyright © 2006 - 2026 All Rights Reserved")>
 <Assembly: AssemblyTrademark("")> 
 
 <Assembly: ComVisible(False)> 
@@ -31,5 +31,5 @@ Imports System.Runtime.InteropServices
 ' by using the '*' as shown below:
 ' <Assembly: AssemblyVersion("1.0.*")> 
 
-<Assembly: AssemblyVersion("4.0.0.0")>
-<Assembly: AssemblyFileVersion("4.0.0.0")>
+<Assembly: AssemblyVersion("4.0.1.0")>
+<Assembly: AssemblyFileVersion("4.0.1.0")>

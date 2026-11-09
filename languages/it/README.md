@@ -1,4 +1,4 @@
-# Un Righello per Windows (versione 4.0 - 2024-12-10)
+# Un Righello per Windows (versione 4.0.1 - 2026-11-08)
 <!-- header -->
 
 |||||||||||
@@ -38,7 +38,7 @@ Il programma ha anche una funzione per avviare lo strumento Ingrandisci di Micro
 Sei invitato a utilizzare Un Righello per Windows gratuitamente su tutti i computer che desideri.
 
 
-## [Clicca qui per scaricare Un Righello per Windows](https://github.com/roblatour/ARulerForWindows/releases/download/v4.0.0.0/arulersetup.exe)<br><br>
+## [Clicca qui per scaricare Un Righello per Windows](https://github.com/roblatour/ARulerForWindows/releases/download/v4.0.1.0/arulersetup.exe)<br><br>
 
 ### [Clicca qui per altre skin gratuite per righelli](skins.md) 
 
@@ -48,5 +48,5 @@ Sei invitato a utilizzare Un Righello per Windows gratuitamente su tutti i compu
 Per aiutare a supportare Un Righello per Windows, o semplicemente per dire grazie, sei il benvenuto a "Offrirmi un caffè"<br><br>
 [<img alt="Offrirmi un caffè" width="200px" src="buymeacoffee-italian.png" />](https://www.buymeacoffee.com/roblatour?l=it)
 * * *
-Copyright © 2006 - 2024 Rob Latour
+Copyright © 2006 - 2026 Rob Latour
 * * *

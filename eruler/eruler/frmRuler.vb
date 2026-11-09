@@ -384,14 +384,16 @@ Public Class frmRuler
 
     Private gMagnifierProgram As String = String.Empty
 
-    Private W10_32_MagnifierProgram As String = "C:\Windows\System32\Magnify.exe"
-    Private W10_64_MagnifierProgram As String = "c:\Windows\Sysnative\Magnfiy.exe"
     Private Sub SetupForMagnifier()
 
-        If File.Exists(W10_64_MagnifierProgram) Then
-            gMagnifierProgram = W10_64_MagnifierProgram
-        ElseIf File.Exists(W10_32_MagnifierProgram) Then
-            gMagnifierProgram = W10_32_MagnifierProgram
+        Dim WindowsPath As String = System.Environment.GetFolderPath(System.Environment.SpecialFolder.Windows)
+        Dim SystemMagnifierProgram As String = Path.Combine(WindowsPath, "System32", "Magnify.exe")
+        Dim SysnativeMagnifierProgram As String = Path.Combine(WindowsPath, "Sysnative", "Magnify.exe")
+
+        If System.Environment.Is64BitOperatingSystem AndAlso Not System.Environment.Is64BitProcess AndAlso File.Exists(SysnativeMagnifierProgram) Then
+            gMagnifierProgram = SysnativeMagnifierProgram
+        ElseIf File.Exists(SystemMagnifierProgram) Then
+            gMagnifierProgram = SystemMagnifierProgram
         End If
 
         gMagnifierFound = (gMagnifierProgram.Length > 0)
@@ -2213,30 +2215,21 @@ Public Class frmRuler
 
     Private Sub newMagnifyNow()
 
+        'Starting Magnifier again reopens or activates its existing instance.
+        Dim StartInfo As New ProcessStartInfo(gMagnifierProgram)
+        StartInfo.UseShellExecute = True
 
-        Dim MagniferIsRunning As Boolean = (Diagnostics.Process.GetProcessesByName("magnify").Length > 0)
-
-        If MagniferIsRunning Then
-
-            SetPriority(ProcessPriorityClass.High)
-            'close the magnfier
-            modKeySend.SendTheTransmissionString("{WIN}{ESC}")
-            SetPriority(ProcessPriorityClass.Normal)
-
-        Else
-
-            'start the magnifier
-            System.Diagnostics.Process.Start(gMagnifierProgram)
-            Threading.Thread.Sleep(250)
-
+        If System.Environment.Is64BitOperatingSystem AndAlso Not System.Environment.Is64BitProcess Then
+            Dim WindowsPath As String = System.Environment.GetFolderPath(System.Environment.SpecialFolder.Windows)
+            'Use the native shell for Magnifier's UIAccess launch requirements.
+            StartInfo.FileName = Path.Combine(WindowsPath, "Sysnative", "cmd.exe")
+            StartInfo.Arguments = "/d /c start """" """ & Path.Combine(WindowsPath, "System32", "Magnify.exe") & """"
+            StartInfo.UseShellExecute = False
+            StartInfo.CreateNoWindow = True
         End If
 
-    End Sub
-
-    Private Sub SetPriority(ByVal Prioirty As ProcessPriorityClass)
-
-        Static Dim myProcess As Process = Process.GetCurrentProcess
-        myProcess.PriorityClass = Prioirty
+        Using MagnifierProcess As Process = System.Diagnostics.Process.Start(StartInfo)
+        End Using
 
     End Sub
 

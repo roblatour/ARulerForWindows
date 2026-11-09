@@ -1,4 +1,4 @@
-# مسطرة لنظام ويندوز (الإصدار 4.0 2024-12-10)
+# مسطرة لنظام ويندوز (الإصدار 4.0.1 2026-11-08)
 
 <!-- header -->
 |||||||||||
@@ -29,7 +29,7 @@
 نرحب باستخدام حاكم لنظام التشغيل Windows مجانًا على أي عدد تريده من أجهزة الكمبيوتر!
 
 
-## [انقر هنا للتحميل](https://github.com/roblatour/ARulerForWindows/releases/download/v4.0.0.0/arulersetup.exe)<br><br>
+## [انقر هنا للتحميل](https://github.com/roblatour/ARulerForWindows/releases/download/v4.0.1.0/arulersetup.exe)<br><br>
 
 ### [انقر هنا للحصول على المزيد من جلود المسطرة المجانية](skins.md) 
 
@@ -39,5 +39,5 @@
 للمساعدة في دعم هذا البرنامج، أو لمجرد قول شكرًا، نرحب بك في "اشتر لي قهوة"<br><br>
 [<img alt="اشتري لي قهوة" width="200px" src="buymeacoffee-arabic.png" />](https://www.buymeacoffee.com/roblatour)
 * * *
-حقوق الطبع والنشر © 2006 - 2024 Rob Latour
+حقوق الطبع والنشر © 2006 - 2026 Rob Latour
 * * *

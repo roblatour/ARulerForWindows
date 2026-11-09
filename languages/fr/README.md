@@ -1,5 +1,5 @@
 
-# Une Règle Pour Windows (version 4.0 - 2024-12-10)
+# Une Règle Pour Windows (version 4.0.1 - 2026-11-08)
 
 <!-- header -->
 |||||||||||
@@ -36,7 +36,7 @@ Le programme dispose également d'une fonctionnalité pour lancer l'outil Magnif
   
 Vous pouvez bien sur utiliser Une Règle Pour Windows gratuitement sur autant d’ordinateurs que vous voulez.  
 
-## [Cliquez ici pour télécharger Une Règle Pour Windows](https://github.com/roblatour/ARulerForWindows/releases/download/v4.0.0.0/arulersetup.exe)<br><br>
+## [Cliquez ici pour télécharger Une Règle Pour Windows](https://github.com/roblatour/ARulerForWindows/releases/download/v4.0.1.0/arulersetup.exe)<br><br>
 
 ### [Cliquez ici pour plus de skins de règles gratuites](skins.md) 
 
@@ -46,7 +46,7 @@ Vous pouvez bien sur utiliser Une Règle Pour Windows gratuitement sur autant d�
 Pour soutenir Une Règle Pour Windows, ou simplement pour dire merci, n'hésitez pas à « M'offrir un café »<br><br>
 [<img alt="M'offrir un café" width="200px" src="buymeacoffee-french.png" />](https://buymeacoffee.com/roblatour?l=fr)
 * * *
-Copyright © 2006 - 2024 Rob Latour
+Copyright © 2006 - 2026 Rob Latour
 * * *
 
 

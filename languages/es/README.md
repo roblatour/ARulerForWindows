@@ -1,4 +1,4 @@
-# Una Regla Para Windows (versión 4.0 - 2024-12-10)
+# Una Regla Para Windows (versión 4.0.1 - 2026-11-08)
 <!-- header -->
 
 |||||||||||
@@ -37,7 +37,7 @@ El programa también tiene una función para iniciar la herramienta Ampliar de M
    
 Le invitamos a utilizar la regla para Windows de forma gratuita en tantos equipos como desee.
 
-## [Haga clic aquí para descargar Una Regla para Windows](https://github.com/roblatour/ARulerForWindows/releases/download/v4.0.0.0/arulersetup.exe)<br><br>
+## [Haga clic aquí para descargar Una Regla para Windows](https://github.com/roblatour/ARulerForWindows/releases/download/v4.0.1.0/arulersetup.exe)<br><br>
 
 ### [Haga clic aquí para obtener más diseños de reglas gratuitos](skins.md) 
 
@@ -47,5 +47,5 @@ Le invitamos a utilizar la regla para Windows de forma gratuita en tantos equipo
 Para ayudar a respaldar Una Regla para Windows, o simplemente para decir gracias, eres bienvenido a "Invitarme un café".<br><br>
 [<img alt="Invitarme un café" width="200px" src="buymeacoffee-spanish.png" />](https://www.buymeacoffee.com/roblatour?l=es)
 * * *
-Copyright © 2006 - 2024 Rob Latour
+Copyright © 2006 - 2026 Rob Latour
 * * *

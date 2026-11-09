@@ -1,4 +1,4 @@
-# Ein Lineal Für Windows (Version 4.0 - 2024-12-10)
+# Ein Lineal Für Windows (Version 4.0.1 - 2026-11-08)
 <!-- header -->
 
 |||||||||||
@@ -40,7 +40,7 @@ Das Programm verfügt auch über eine Funktion zum Starten des Magnify-Tools von
 
 Sie können Ein Lineal für Windows gern kostenlos auf so vielen Computern verwenden, wie Sie möchten. 
 
-## [Klicken Sie hier, Ein Lineal Für Windows herunterzuladen](https://github.com/roblatour/ARulerForWindows/releases/download/v4.0.0.0/arulersetup.exe)<br><br>
+## [Klicken Sie hier, Ein Lineal Für Windows herunterzuladen](https://github.com/roblatour/ARulerForWindows/releases/download/v4.0.1.0/arulersetup.exe)<br><br>
 
 ### [Klicken Sie hier für weitere kostenlose Lineal-Skins](skins.md) 
 
@@ -50,5 +50,5 @@ Sie können Ein Lineal für Windows gern kostenlos auf so vielen Computern verwe
 Ein Lineal Für Windows zu unterstützen oder einfach nur Danke zu sagen, können sie mir gerne einen kaffee spendieren.<br><br>
 [<img alt="Kauf mir einen kaffee" width="200px" src="buymeacoffee-german.png" />](https://www.buymeacoffee.com/roblatour?l=de)
 * * *
-Copyright © 2006 - 2024 Rob Latour
+Copyright © 2006 - 2026 Rob Latour
 * * *

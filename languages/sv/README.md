@@ -1,4 +1,4 @@
-# En Linjal För Windows (version 4.0 - 2024-12-10)
+# En Linjal För Windows (version 4.0.1 - 2026-11-08)
 
 <!-- header -->
 |||||||||||
@@ -38,7 +38,7 @@ Programmet har även en funktion för att starta Microsofts förstoringsverktyg,
   
 Du är varmt välkommen att använda En Linjal för Windows gratis på så många datorer du vill.
 
-## [Stöd En Linjal För Windows](https://github.com/roblatour/ARulerForWindows/releases/download/v4.0.0.0/arulersetup.exe)<br><br>
+## [Stöd En Linjal För Windows](https://github.com/roblatour/ARulerForWindows/releases/download/v4.0.1.0/arulersetup.exe)<br><br>
 
 ### [Klicka här för fler gratis linjalskinn](skins.md) 
 
@@ -48,5 +48,5 @@ Du är varmt välkommen att använda En Linjal för Windows gratis på så mång
 För att hjälpa till att stödja En Linjal För Windows, eller för att bara säga tack, är du välkommen att "Köpa mig en kaffe"<br><br>
 [<img alt="Köpa mig en kaffe" width="200px" src="buymeacoffee-swedish.png" />](https://www.buymeacoffee.com/roblatour)
 * * *
-Copyright © 2006 - 2024 Rob Latour
+Copyright © 2006 - 2026 Rob Latour
 * * *

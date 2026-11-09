@@ -1,4 +1,4 @@
-# Een Meetlat voor Windows (versie 4.0 - 2024-12-10)
+# Een Meetlat voor Windows (versie 4.0.1 - 2026-11-08)
 
 <!-- header -->
 |||||||||||
@@ -38,7 +38,7 @@ Automatisch \[M\] middelpunt, \[T\] derde- en \[G\]gulden snede kunnen optioneel
   
 U bent welkom om 'Een Meetlat voor Windows' gratis te gebruiken op zoveel computers als u wilt!  
 
-## [Klik hier om te downloaden Een Meetlat voor Windows](https://github.com/roblatour/ARulerForWindows/releases/download/v4.0.0.0/arulersetup.exe)<br><br>
+## [Klik hier om te downloaden Een Meetlat voor Windows](https://github.com/roblatour/ARulerForWindows/releases/download/v4.0.1.0/arulersetup.exe)<br><br>
 
 ### [Klik hier voor meer gratis liniaalskins](skins.md) 
 
@@ -48,5 +48,5 @@ U bent welkom om 'Een Meetlat voor Windows' gratis te gebruiken op zoveel comput
 Om Een Meetlat voor Windows te steunen, of gewoon om dankjewel te zeggen, kunt u op 'Koop mij een kopje koffie' klikken<br><br>
 [<img alt="Koop mij een koffie" width="200px" src="buymeacoffee-dutch.png" />](https://www.buymeacoffee.com/roblatour)
 * * *
-Copyright © 2006 - 2024 Rob Latour
+Copyright © 2006 - 2026 Rob Latour
 * * *

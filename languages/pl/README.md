@@ -1,4 +1,4 @@
-# Linijka Dla Windows (Wersja 4.0 - 2024-12-10)
+# Linijka Dla Windows (Wersja 4.0.1 - 2024-11-08)
 
 <!-- header -->
 |||||||||||
@@ -37,7 +37,7 @@ Program ma również funkcję uruchamiania narzędzia Microsoft Magnify, pozwala
 
 Nie ma jakichkolwiek ograniczeń co do ilości komputerów na których jest używany Linijka dla Windows.
 
-## [Kliknij tutaj, aby pobrać Linijka Dla Windows](https://github.com/roblatour/ARulerForWindows/releases/download/v4.0.0.0/arulersetup.exe)<br><br>
+## [Kliknij tutaj, aby pobrać Linijka Dla Windows](https://github.com/roblatour/ARulerForWindows/releases/download/v4.0.1.0/arulersetup.exe)<br><br>
 
 ### [Kliknij tutaj, aby uzyskać więcej darmowych skórek linijek](skins.md) 
 
@@ -47,5 +47,5 @@ Nie ma jakichkolwiek ograniczeń co do ilości komputerów na których jest uży
 Aby wesprzeć projekt Linijka Dla Windows lub po prostu podziękować, możesz „Postawić mi kawę”<br><br>
 [<img alt="Postawić mi kawę" width="200px" src="buymeacoffee-polish.png" />](https://www.buymeacoffee.com/roblatour)
 * * *
-Copyright © 2006 - 2024 Rob Latour
+Copyright © 2006 - 2026 Rob Latour
 * * *

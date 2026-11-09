@@ -1,0 +1,5 @@
+- fixed Magnify no longer working
+- NOTE: 
+  The A Ruler For Windows setup file is still available download, but it is no longer signed
+  So you may see a Windows alert when you run the program
+  All the code is however available on Github should you wish to build it yourself

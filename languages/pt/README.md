@@ -1,5 +1,5 @@
 
-# Uma Régua para Windows (Versão 4.0 - 2024-12-10)
+# Uma Régua para Windows (Versão 4.0.1 - 2026-11-08)
 
 <!-- header -->
 |||||||||||
@@ -40,7 +40,7 @@ O programa também possui um recurso para lançar a ferramenta Magnify da Micros
   
 Você é convidado a usar Uma Régua para Windows de graça em quantos computadores quiser.
 
-## [Clique aqui para descarregar Uma Régua para Windows](https://github.com/roblatour/ARulerForWindows/releases/download/v4.0.0.0/arulersetup.exe)<br><br>
+## [Clique aqui para descarregar Uma Régua para Windows](https://github.com/roblatour/ARulerForWindows/releases/download/v4.0.1.0/arulersetup.exe)<br><br>
 
 ### [Clique aqui para mais skins de régua gratuitass](skins.md) 
 
@@ -50,5 +50,5 @@ Você é convidado a usar Uma Régua para Windows de graça em quantos computado
 Para ajudar a apoiar Uma Régua para Windows, ou apenas para agradecer, está convidado a 'Compre-me um café'<br><br>
 [<img alt="Compre-me um café" width="200px" src="buymeacoffee-portuguese.png" />](https://www.buymeacoffee.com/roblatour)
 * * *
-Copyright © 2006 - 2024 Rob Latour
+Copyright © 2006 - 2026 Rob Latour
 * * *
